@@ -1,0 +1,24 @@
+/*
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+);*/
+// Template
+//
+// Configuration of template
+$header-nav-height:           4.375rem;
+$header-navbar-height:        4.375rem;
+$side-nav-width:              17.5rem;
+$mobile-nav-width:            17.5rem;
+$side-nav-collapse-width:     4rem;
+$side-nav-width-laptop:       14.375rem;
+$side-nav-folded:             5rem;
+$side-nav-dark:               #001529;
+$layout-content-gutter:       1.5625rem;
+$layout-content-gutter-sm:    0.9375rem;
+$footer-height:               4.0625rem;
+$content-height-offset:       $header-nav-height + 0.9375rem + ($layout-content-gutter * 2);
+$content-height-offset-sm:    $header-nav-height + 0.9375rem + ($layout-content-gutter-sm * 2);
