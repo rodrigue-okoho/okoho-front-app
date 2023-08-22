@@ -5,7 +5,6 @@
 Bootstrap tweaks
 ===============================================================*/
 
-body,
 h1,
 h2,
 h3,
@@ -18,12 +17,16 @@ h4 {
 a {
   color: #FFFFFF;
   font-weight:lighter;
+  text-decoration: none;
 }
 body{
-  background: #fff;
+  background: var(--color-bg-2, #F0F5F7);
+  color: #77838F;
+  font-family: Jost, Helvetica, Arial, sans-serif;
+  font-size: 15px;
 }
 a:hover {
-  color: #533f03;
+  color: #1967D2;
 }
 
 /* override hover color for dropdown-item forced by bootstrap to all a:not([href]):not([tabindex]) elements in _reboot.scss */

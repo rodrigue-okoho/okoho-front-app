@@ -1,6 +1,6 @@
 {
   "global": {
-    "title": "Cablapp",
+    "title": "OKOHO",
     "browsehappy": "Vous utilisez un <strong>ancien</strong> navigateur. Veuillez <a href=\"http://browsehappy.com/?locale=fr\">mettre à jour votre navigateur</a> pour une meilleure expérience.",
     "menu": {
       "home": "Accueil",
@@ -21,6 +21,18 @@
         "sessions": "Sessions",
         "login": "S'authentifier/Créer un compte",
         "logout": "Déconnexion",
+        "dashboard": "Dashboard",
+        "profil": "Profil",
+        "my_resume": "Mon CV",
+        "my_apply": "Mes candidatures",
+        "shortlist_job": "Emplois preselectionés",
+        "following_employee": "Suivre les entreprises",
+        "alert_job": "Alerte emploi",
+        "meeting": "Rencontres",
+        "my_job": "Mes emplois",
+        "add_job": "Ajouter un emploi",
+        "applicant_job": "Candidatures aux emploi",
+        "shortlist_candidat": "Liste des candidats",
         "register": "Créer un compte"
       },
       "language": "Langue"
@@ -147,6 +159,13 @@
     "messages": {
       "error": "<strong>Une erreur est survenue !</strong> Le mot de passe n'a pas pu être modifié.",
       "success": "<strong>Le mot de passe a été modifié !</strong>"
+    }
+  },
+  "activate":{
+    "title": "Activation",
+    "messages": {
+      "success": "<strong>Your user account has been activated.</strong> Please ",
+      "error": "<strong>Your user could not be activated.</strong> Please use the registration form to sign up."
     }
   }
 }
