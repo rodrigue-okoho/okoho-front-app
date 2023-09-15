@@ -5490,8 +5490,8 @@ Main Header
   right: 0px;
   top: 50%;
   margin-top: -10px;
-  font-family: "Font Awesome 5 Free";
-  content: "\f107";
+/*  font-family: "Font Awesome 5 Free";
+  content: "\f107";*/
   display: block;
   line-height: 20px;
   font-size: 14px;
@@ -11741,7 +11741,7 @@ Candidate Detail Section
 
 .candidate-detail-section .upper-box {
   position: relative;
-//  background-image: url(../images/icons/bg-4.png);
+  background-image: url(../../assets/images/bg-4.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

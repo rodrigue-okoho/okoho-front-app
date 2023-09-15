@@ -35,6 +35,8 @@
         "add_job": "Ajouter un emploi",
         "applicant_job": "Candidatures aux emploi",
         "shortlist_candidat": "Liste des candidats",
+        "cv_manager":"Gestion des CVs",
+        "delete_profil":"Supprimer le profil",
         "register": "Créer un compte"
       },
       "language": "Langue"
@@ -134,6 +136,9 @@
       "datetimelocal": "Ce champ doit être une date et une heure.",
       "patternLogin": "Ce champ ne peut contenir que des lettres, des chiffres ou des adresses e-mail."
     }
+  },
+  "success": {
+    "SAVE_SUCCESS": "Enregistrement avec success"
   },
   "error": {
     "internalServerError": "Erreur interne du serveur",

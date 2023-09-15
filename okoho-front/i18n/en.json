@@ -29,6 +29,22 @@
         "sessions": "Sessions",
         "login": "Login / Register",
         "logout": "Sign out",
+        "dashboard": "Dashboard",
+        "profil": "Profile",
+        "my_resume": "My resume",
+        "my_apply": "My apply",
+        "shortlist_job": "Shortlist job",
+        "following_employee": "following employee",
+        "alert_job": "Alert job",
+        "candidat_alert": "condidate Alert",
+        "package": "Packages",
+        "meeting": "Meeting",
+        "my_job": "My job",
+        "add_job": "Add Job",
+        "applicant_job": "Applicant job",
+        "shortlist_candidat": "ShortList candidate",
+        "cv_manager":"CV Manager",
+        "delete_profil":"Delete profil",
         "register": "Register"
       },
       "language": "Language"
@@ -128,6 +144,9 @@
       "datetimelocal": "This field should be a date and time.",
       "patternLogin": "This field can only contain letters, digits and e-mail addresses."
     }
+  },
+  "success": {
+    "SAVE_SUCCESS": "save successful"
   },
   "error": {
     "internalServerError": "Internal server error",
