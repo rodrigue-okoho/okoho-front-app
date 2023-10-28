@@ -18,6 +18,7 @@
       "accessibility-center": "Accessibility Center",
       "data-protection": "Data Protection",
       "impressum": "Impressum",
+      "Datenschutz": "Datenschutzerklärung",
       "browse-employer": "Browse Employer",
       "browse-job": "Browse Job",
       "browse-category": "Browse Category",
@@ -147,8 +148,9 @@
       "patternLogin": "This field can only contain letters, digits and e-mail addresses."
     }
   },
-  "success": {
-    "SAVE_SUCCESS": "save successful"
+  "MESSAGES": {
+    "SAVE_SUCCESS": "save successful",
+    "SAVE_ERROR": "save error"
   },
   "error": {
     "title": "Error page!",

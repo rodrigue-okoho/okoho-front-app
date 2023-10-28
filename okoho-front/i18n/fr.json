@@ -18,6 +18,7 @@
       "accessibility-center": "Accessibility Center",
       "data-protection": "Data Protection",
       "impressum": "Impressum",
+      "Datenschutz": "Datenschutzerklärung",
       "browse-employer": "Browse Employer",
       "browse-job": "Browse Job",
       "browse-category": "Browse Category",
@@ -145,8 +146,9 @@
       "patternLogin": "Ce champ ne peut contenir que des lettres, des chiffres ou des adresses e-mail."
     }
   },
-  "success": {
-    "SAVE_SUCCESS": "Enregistrement avec success"
+  "MESSAGES": {
+    "SAVE_SUCCESS": "Enregistrement avec success",
+    "SAVE_ERROR": "Enregistrement avec echec"
   },
   "error": {
     "title": "Page d'erreur !",
