@@ -511,6 +511,9 @@ THE SOFTWARE.
 @ng-select/ng-select
 MIT
 
+@ngx-matomo/tracker
+MIT
+
 @ngx-translate/core
 SEE LICENSE IN LICENSE
 
