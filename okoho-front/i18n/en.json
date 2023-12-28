@@ -3,6 +3,7 @@
     "title": "OKOHO plateform",
     "browsehappy": "You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/?locale=en\">upgrade your browser</a> to improve your experience.",
     "menu": {
+      "candidates": "candidates",
       "home": "Home",
       "candidate": "Qualified candidates",
       "candidate_untrained": "Untrained candidates",
@@ -19,7 +20,7 @@
       "accessibility-center": "Accessibility Center",
       "data-protection": "Data Protection",
       "impressum": "Impressum",
-      "Datenschutz": "Datenschutzerklärung",
+      "Datenschutz": "Data protection",
       "browse-employer": "Browse Employer",
       "browse-job": "Browse Job",
       "browse-category": "Browse Category",
@@ -47,8 +48,8 @@
         "add_job": "Add Job",
         "applicant_job": "Applicant job",
         "shortlist_candidat": "ShortList candidate",
-        "cv_manager":"CV Manager",
-        "delete_profil":"Delete profil",
+        "cv_manager": "CV Manager",
+        "delete_profil": "Delete profil",
         "register": "Register"
       },
       "language": "Language"
@@ -113,7 +114,10 @@
     "item-count": "Showing {{first}} - {{second}} of {{total}}.",
     "item-candidat": "Candidates",
     "item-employer": "Employers",
-    "item-job": "Jobs"
+    "item-job": "Jobs",
+    "create_cv": "Create your CV",
+    "10kcandidat": "10k+ Candidates",
+    "onlyseconds": "It only takes a few seconds"
   },
   "entity": {
     "action": {
@@ -193,7 +197,7 @@
       "success": "<strong>Password changed!</strong>"
     }
   },
-  "activate":{
+  "activate": {
     "title": "Activation",
     "messages": {
       "success": "<strong>Your user account has been activated.</strong> Please ",
@@ -225,7 +229,7 @@
     "job_section": {
       "h2": "Professional CV is your ticket to the dream job",
       "div": "To start searching for jobs, you can attend job fairs online or in person, use job boards and career websites or reach out directly to recruiters in a targeted company to broaden your network.",
-      "a": "Post Resume"
+      "a": "Create your Cv"
     },
     "job_lastest": {
       "h2": "Latest Jobs",
