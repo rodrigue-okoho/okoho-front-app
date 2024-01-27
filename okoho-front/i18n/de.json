@@ -378,7 +378,12 @@
     "language": {
       "french": "Französisch",
       "english": "Englisch",
-      "germain": "Deutsch"
+      "german": "Deutsch",
+      "spanish": "Spanisch",
+      "italian": "Italienisch",
+      "portuguese": "Portugiesisch",
+      "chinese": "Chinesisch",
+      "russian": "Russisch"
     }
   },
   "title": {

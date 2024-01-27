@@ -373,9 +373,14 @@
     "mechatronics-and-mechanics": "Mecatrónica e mecânica",
     "electricity-electronics": "Eletricidade e electrónica",
     "language": {
-      "french": "Francês",
-      "english": "Inglês",
-      "germain": "Alemão"
+      "french": "Francés",
+      "english": "Inglés",
+      "german": "Alemán",
+      "spanish": "Español",
+      "italian": "italiano",
+      "portuguese": "portugués",
+      "chinese": "Chino",
+      "russian": "ruso"
     }
   },
   "title": {

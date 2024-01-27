@@ -382,14 +382,14 @@
     "mechatronics-and-mechanics": "Mechatronics and mechanics",
     "electricity-electronics": "Electricity & electronics",
     "language": {
-      "french": "French",
-      "english": "English",
-      "german": "German",
-      "spanish": "Spanish",
-      "italian": "Italian",
-      "portuguese": "Portuguese",
-      "chinese": "Chinese",
-      "russian": "Russian"
+      "french": "francese",
+      "english": "Inglese",
+      "german": "Tedesco",
+      "spanish": "spagnolo",
+      "italian": "Italiano",
+      "portuguese": "portoghese",
+      "chinese": "Cinese",
+      "russian": "russo"
     }
   },
   "title": {
