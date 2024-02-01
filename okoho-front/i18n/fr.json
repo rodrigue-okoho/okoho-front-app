@@ -382,6 +382,61 @@
       "portuguese": "Portugais",
       "chinese": "Chinois",
       "russian": "russe"
+    },
+    "form": {
+      "myprofile": "Mon profil",
+      "browselogo": "Parcourir le logo",
+      "maxfileupload": "La taille maximale du fichier est de 1 Mo, la dimension minimale : 330 x 300 et les fichiers appropriés sont .jpg",
+      "firstname": "Prénom *",
+      "lastname": "Nom de famille",
+      "jobtitle": "Titre d'emploi *",
+      "phone": "Téléphone",
+      "emailaddress": "Adresse e-mail",
+      "dateofborn": "Date de naissance *",
+      "readytojump": "Prêt à revenir?",
+      "placeofborn": "Lieu de naissance",
+      "countryofborn": "Pays de naissance",
+      "educationlevel": "Niveaux d'éducation",
+      "allowsearch": "Autoriser dans la recherche",
+      "description": "Description",
+      "lookingprofessional": "En recherche de formation professionnelle ou d'emploi",
+      "searchtrainning": "Recherche de formation professionnelle",
+      "findjob": "Trouver un emploi",
+      "language": "Langue",
+      "readingcomprehension": "Compréhension écrite:",
+      "listeningcomprehension": "Compréhension d'écoute:",
+      "oralexpression": "Expression oral:",
+      "writting": "écrire",
+      "socialnetwork": "Réseau social",
+      "contactinformation": "Coordonnées",
+      "country": "Pays",
+      "city": "Ville",
+      "completeaddress": "Adresse complète",
+      "findonmap": "Rechercher sur la carte",
+      "latitude": "Latitude",
+      "longitude": "Longitude",
+      "addbranchactivity": "Ajouter des branches d'activité",
+      "branch": "Activité de la succursale",
+      "experience": "Expérience"
+    },
+    "table": {
+      "appliedjob": "Emplois appliqués",
+      "myappliedjob": "Mes emplois appliqués",
+      "jobtitle": "Titre d'emploi",
+      "dateapplied": "Date d'application",
+      "status": "Statut",
+      "action": "Action",
+      "myjobalert": "Mes alertes emploi",
+      "title": "Titre",
+      "criteria": "Critères",
+      "numberjob": "Nombre d'emplois",
+      "times": "Critères",
+      "category": "Catégorie:",
+      "location": "Emplacement:",
+      "experience": " Expérience:",
+      "posteddate": "Date de publication:",
+      "shorlistedjob": " Emplois présélectionnés :",
+      "myfavoritejob": " Mes métiers préférés :"
     }
   },
   "title": {
@@ -391,5 +446,25 @@
     "contact": "Contact",
     "about": "About",
     "faq": "Faq"
-  }
+  },
+  "profile": {
+    "candidat": {
+      "level-education": {
+        "level-1": "Enseignement secondaire inférieur",
+        "level-2": "Enseignement secondaire supérieur",
+        "level-3": "Enseignement post-secondaire non tertiaire",
+        "level-4": "Enseignement tertiaire de cycle court",
+        "level-5": "Licence ou niveau d'enseignement tertiaire équivalent",
+        "level-6": "Maîtrise ou niveau d'enseignement tertiaire équivalent",
+        "level-7": "Doctorat ou niveau d'enseignement supérieur équivalent"
+      }
+    }
+  },
+  "actions": {
+    "save": "Sauvegarder",
+    "update": "Modifier",
+    "close": "Fermer",
+    "search-location": "Lieu de recherche"
+  },
+  "language": "Langue"
 }

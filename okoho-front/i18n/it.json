@@ -1,386 +1,384 @@
 {
   "global": {
-    "title": "OKOHO plateform",
-    "browsehappy": "You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/?locale=en\">upgrade your browser</a> to improve your experience.",
+    "title": "Piattaforma OKOHO",
+    "browsehappy": "Stai utilizzando un <strong>obsoleto</strong> navigatore.  <a href=\"http://browsehappy.com/?locale=en\">aggiorna il tuo browser</a> per migliorare la tua esperienza",
     "menu": {
-      "candidates": "candidates",
-      "home": "Home",
-      "candidate": "Qualified candidates",
-      "candidate_untrained": "Untrained candidates",
-      "employer": "Employers",
+      "candidates": "candidati",
+      "home": "Casa",
+      "candidate": "Candidati qualificati",
+      "candidate_untrained": "Candidati non formati",
+      "employer": "Datori di lavoro",
       "blog": "Blog",
-      "findjob": "Find jobs",
-      "page": "Pages",
-      "about": "About Us",
-      "contact": "Contact us",
+      "findjob": "Trovare lavoro",
+      "page": "Pagine",
+      "about": "Chi siamo",
+      "contact": "Contattaci",
       "faq": "FAQ",
-      "term-condition": "Terms and conditions",
-      "private-center": "Privacy Center",
-      "security-center": "Security Center",
-      "accessibility-center": "Accessibility Center",
-      "data-protection": "Data Protection",
-      "impressum": "Impressum",
-      "Datenschutz": "Data protection",
-      "browse-employer": "Browse Employer",
-      "browse-job": "Browse Job",
-      "browse-category": "Browse Category",
-      "add-job": "Add Job",
-      "job-post": "Job Post",
-      "entities": {
-      },
+      "term-condition": "Termini e Condizioni",
+      "private-center": "Centro sulla privacy",
+      "security-center": "Centro di sicurezza",
+      "accessibility-center": "Centro accessibilità",
+      "data-protection": "Protezione dati",
+      "impressum": "Impronta",
+      "Datenschutz": "Protezione dati",
+      "browse-employer": "Sfoglia Datore di lavoro",
+      "browse-job": "Sfoglia lavoro",
+      "browse-category": "Sfoglia la categoria",
+      "add-job": "Aggiungi lavoro",
+      "job-post": "Annuncio di lavoro",
+      "entities": {},
       "account": {
-        "main": "My Account",
-        "settings": "Settings",
-        "password": "Password",
-        "sessions": "Sessions",
-        "login": "Login / Register",
-        "logout": "Sign out",
-        "dashboard": "Dashboard",
-        "profil": "Profile",
-        "my_resume": "My resume",
-        "my_apply": "My apply",
-        "shortlist_job": "Shortlist job",
-        "following_employee": "following employee",
-        "alert_job": "Alert job",
-        "candidat_alert": "condidate Alert",
-        "package": "Packages",
-        "meeting": "Meeting",
-        "my_job": "My job",
-        "add_job": "Add Job",
-        "applicant_job": "Applicant job",
-        "shortlist_candidat": "ShortList candidate",
-        "cv_manager": "CV Manager",
-        "delete_profil": "Delete profil",
-        "register": "Register"
+        "main": "Il mio conto",
+        "settings": "Impostazioni",
+        "password": "Parola d'ordine",
+        "sessions": "Sessioni",
+        "login": "Accedi / Registrati",
+        "logout": "disconnessione",
+        "dashboard": "Pannello di controllo",
+        "profil": "Profilo",
+        "my_resume": "Il mio curriculum",
+        "my_apply": "La mia candidatura",
+        "shortlist_job": "Lavoro nella lista dei candidati",
+        "following_employee": "dipendente successivo",
+        "alert_job": "Lavoro attento",
+        "candidat_alert": "avviso condidato",
+        "package": "Pacchetti",
+        "meeting": "Incontro",
+        "my_job": "Il mio lavoro",
+        "add_job": "Aggiungi lavoro",
+        "applicant_job": "Lavoro del candidato",
+        "shortlist_candidat": "Candidato nella lista ristretta",
+        "cv_manager": "Responsabile CV",
+        "delete_profil": "Elimina profilo",
+        "register": "Registrati"
       },
-      "language": "Language"
+      "language": "Lingua"
     },
     "form": {
-      "username.label": "Username",
-      "username.placeholder": "Your username",
-      "currentpassword.label": "Current password",
-      "currentpassword.placeholder": "Current password",
-      "newpassword.label": "New password",
-      "newpassword.placeholder": "New password",
-      "confirmpassword.label": "New password confirmation",
-      "confirmpassword.placeholder": "Confirm the new password",
-      "email.label": "Email",
-      "email.placeholder": "Your email"
+      "username.label": "Nome utente",
+      "username.placeholder": "Il tuo nome utente",
+      "currentpassword.label": "Password attuale",
+      "currentpassword.placeholder": "Password attuale",
+      "newpassword.label": "Nuova password",
+      "newpassword.placeholder": "Nuova password",
+      "confirmpassword.label": "Conferma nuova password",
+      "confirmpassword.placeholder": "Conferma la nuova password",
+      "email.label": "E-mail",
+      "email.placeholder": "La tua email"
     },
     "messages": {
       "info": {
         "authenticated": {
-          "prefix": "If you want to ",
-          "link": "sign in",
-          "suffix": ", you can try the default accounts:<br/>- Administrator (login=\"admin\" and password=\"admin\") <br/>- User (login=\"user\" and password=\"user\")."
+          "prefix": "Se lo desidera ",
+          "link": "registrazione",
+          "suffix": ", puoi provare gli account predefiniti:<br/>- Amministratore (login=\"admin\" e password=\"admin\") <br/>- Utente (login=\"utente\" e password=\"utente\")."
         },
         "register": {
-          "noaccount": "You don't have an account yet?",
-          "link": "Register a new account"
+          "noaccount": "Non hai ancora un account?",
+          "link": "Registra un nuovo account"
         }
       },
       "error": {
-        "dontmatch": "The password and its confirmation do not match!"
+        "dontmatch": "La password e la sua conferma non corrispondono!"
       },
       "validate": {
         "newpassword": {
-          "required": "Your password is required.",
-          "minlength": "Your password is required to be at least 4 characters.",
-          "maxlength": "Your password cannot be longer than 50 characters.",
-          "strength": "Password strength:"
+          "required": "È richiesta la tua password.",
+          "minlength": "La tua password deve contenere almeno 4 caratteri.",
+          "maxlength": "La tua password non può contenere più di 50 caratteri.",
+          "strength": "Forza della password:"
         },
         "confirmpassword": {
-          "required": "Your confirmation password is required.",
-          "minlength": "Your confirmation password is required to be at least 4 characters.",
-          "maxlength": "Your confirmation password cannot be longer than 50 characters."
+          "required": "È richiesta la password di conferma.",
+          "minlength": "La password di conferma deve contenere almeno 4 caratteri.",
+          "maxlength": "La tua password di conferma non può contenere più di 50 caratteri."
         },
         "email": {
-          "required": "Your email is required.",
-          "invalid": "Your email is invalid.",
-          "minlength": "Your email is required to be at least 5 characters.",
-          "maxlength": "Your email cannot be longer than 50 characters."
+          "required": "La tua email è obbligatoria.",
+          "invalid": "La tua mail non è valida.",
+          "minlength": "La tua email deve contenere almeno 5 caratteri.",
+          "maxlength": "La tua email non può contenere più di 50 caratteri."
         }
       }
     },
     "field": {
       "id": "ID",
-      "your_name": "Votre nom",
-      "your_email": "Votre email",
+      "your_name": "Il tuo nome",
+      "your_email": "La tua email",
       "your_subject": "Sujet",
-      "message": "Message"
+      "message": "Messaggio"
     },
     "ribbon": {
-      "dev": "Development"
+      "dev": "Sviluppo"
     },
-    "item-count": "Showing {{first}} - {{second}} of {{total}}.",
-    "item-candidat": "Candidates",
-    "item-employer": "Employers",
-    "item-job": "Jobs",
-    "create_cv": "Create your CV",
-    "10kcandidat": "10k+ Candidates",
-    "onlyseconds": "It only takes a few seconds",
-    "work-inquiry-from": "Work Inquiry From <br>Ali Tufan",
-    "creativ-agency": "Creative Agency",
-    "startup": "startup"
+    "item-count": "Mostrando {{first}} - {{second}} Di {{total}}.",
+    "item-candidat": "Candidati",
+    "item-employer": "Datori di lavoro",
+    "item-job": "Lavori",
+    "create_cv": "Crea il tuo CV",
+    "10kcandidat": "10k candidati",
+    "onlyseconds": "Ci vogliono solo pochi secondi",
+    "work-inquiry-from": "Richiesta di lavoro da <br>Ali Tufan",
+    "creativ-agency": "Agenzia creativa",
+    "startup": "avviare"
   },
   "entity": {
     "action": {
-      "addblob": "Add blob",
-      "addimage": "Add image",
-      "back": "Back",
-      "cancel": "Cancel",
-      "delete": "Delete",
-      "edit": "Edit",
-      "open": "Open",
-      "save": "Save",
-      "view": "View",
-      "send_message": "Send message"
+      "addblob": "Aggiungi macchia",
+      "addimage": "Aggiungi immagine",
+      "back": "Indietro",
+      "cancel": "Annulla",
+      "delete": "Eliminare",
+      "edit": "Modificare",
+      "open": "Aprire",
+      "save": "Salva",
+      "view": "Visualizzazione",
+      "send_message": "Invia messaggio"
     },
     "detail": {
-      "field": "Field",
-      "value": "Value"
+      "field": "Campo",
+      "value": "Valore"
     },
     "delete": {
-      "title": "Confirm delete operation"
+      "title": "Conferma l'operazione di eliminazione"
     },
     "validation": {
-      "required": "This field is required.",
-      "minlength": "This field is required to be at least {{ min }} characters.",
-      "maxlength": "This field cannot be longer than {{ max }} characters.",
-      "min": "This field should be at least {{ min }}.",
-      "max": "This field cannot be more than {{ max }}.",
-      "minbytes": "This field should be at least {{ min }} bytes.",
-      "maxbytes": "This field cannot be more than {{ max }} bytes.",
-      "pattern": "This field should follow pattern for {{ pattern }}.",
-      "number": "This field should be a number.",
-      "datetimelocal": "This field should be a date and time.",
-      "patternLogin": "This field can only contain letters, digits and e-mail addresses."
+      "required": "Questo campo è obbligatorio.",
+      "minlength": "Questo campo deve essere almeno {{ min }} caratteri.",
+      "maxlength": "Questo campo non può essere più lungo di {{ max }} caratteri.",
+      "min": "Questo campo dovrebbe essere almeno {{ min }}.",
+      "max": "Questo campo non può essere superiore a {{ max }}.",
+      "minbytes": "Questo campo dovrebbe essere almeno {{ min }} byte.",
+      "maxbytes": "Questo campo non può essere superiore a {{ max }} byte.",
+      "pattern": "Questo campo dovrebbe seguire lo schema per {{ pattern }}.",
+      "number": "Questo campo dovrebbe essere un numero.",
+      "datetimelocal": "Questo campo dovrebbe contenere una data e un'ora.",
+      "patternLogin": "Questo campo può contenere solo lettere, cifre e indirizzi e-mail."
     }
   },
   "MESSAGES": {
-    "SAVE_SUCCESS": "save successful",
-    "SAVE_ERROR": "save error"
+    "SAVE_SUCCESS": "salvataggio eseguito con successo",
+    "SAVE_ERROR": "salva errore"
   },
   "error": {
-    "title": "Error page!",
+    "title": "Pagina di errore!",
     "http": {
-      "400": "Bad request.",
-      "403": "You are not authorized to access this page.",
-      "404": "The page does not exist.",
-      "405": "The HTTP verb you used is not supported for this URL.",
-      "500": "Internal server error."
+      "400": "Brutta richiesta.",
+      "403": "Non sei autorizzato ad accedere a questa pagina.",
+      "404": "La pagina non esiste.",
+      "405": "Il verbo HTTP che hai utilizzato non è supportato per questo URL.",
+      "500": "Errore interno del server."
     },
-    "concurrencyFailure": "Another user modified this data at the same time as you. Your changes were rejected.",
-    "validation": "Validation error on the server.",
-    "internalServerError": "Internal server error",
-    "server.not.reachable": "Server not reachable",
-    "url.not.found": "Not found",
-    "NotNull": "Field {{ fieldName }} cannot be empty!",
-    "Size": "Field {{ fieldName }} does not meet min/max size requirements!",
-    "userexists": "Login name already used!",
-    "emailexists": "Email is already in use!",
-    "idexists": "A new {{ entityName }} cannot already have an ID",
-    "idnull": "Invalid ID",
-    "idinvalid": "Invalid ID",
-    "idnotfound": "ID cannot be found",
+    "concurrencyFailure": "Un altro utente ha modificato questi dati contemporaneamente a te. ",
+    "validation": "Errore di convalida sul server.",
+    "internalServerError": "Errore interno del server",
+    "server.not.reachable": "Server non raggiungibile",
+    "url.not.found": "Non trovato",
+    "NotNull": "Campo {{ fieldName }} Non può essere vuoto!",
+    "Size": "Campo {{ fieldName }} non soddisfa i requisiti di dimensione minima/massima!",
+    "userexists": "Nome di accesso già utilizzato!",
+    "emailexists": "Email già utilizzata!",
+    "idexists": "Un nuovo {{ entityName }} non può già avere un documento d'identità",
+    "idnull": "ID non valido",
+    "idinvalid": "ID non valido",
+    "idnotfound": "Impossibile trovare l'ID",
     "file": {
-      "could.not.extract": "Could not extract file",
-      "not.image": "File was expected to be an image but was found to be \"{{ fileType }}\""
+      "could.not.extract": "Impossibile estrarre il file",
+      "not.image": "Si prevedeva che il file fosse un'immagine ma si è scoperto che era \"{{ fileType }}\""
     }
   },
   "footer": {
-    "call-us": "Cantact us",
-    "all-right-reserved": "All Right Reserved.",
-    "site-map": "Site Map",
-    "helpful-resources": "Helpful Resources",
-    "about-us": "About Us",
-    "for-employers": "For Employers",
-    "for-candidates": "For Candidates",
-    "job-pakages": "Job Packages",
-    "my-bookmarks": "My Bookmarks"
+    "call-us": "Contattaci",
+    "all-right-reserved": "Tutti i diritti riservati.",
+    "site-map": "Mappa del sito",
+    "helpful-resources": "Risorse utili",
+    "about-us": "Chi siamo",
+    "for-employers": "Per i datori di lavoro",
+    "for-candidates": "Per i candidati",
+    "job-pakages": "Pacchetti di lavoro",
+    "my-bookmarks": "I miei segnalibri"
   },
   "password": {
-    "title": "Password for [<strong>{{username}}</strong>]",
+    "title": "Password per [<strong>{{username}}</strong>]",
     "form": {
-      "button": "Save"
+      "button": "Salva"
     },
     "messages": {
-      "error": "<strong>An error has occurred!</strong> The password could not be changed.",
-      "success": "<strong>Password changed!</strong>"
+      "error": "<strong>C'è stato un errore!</strong> Impossibile modificare la password.",
+      "success": "<strong>Password cambiata!</strong>"
     }
   },
   "activate": {
-    "title": "Activation",
+    "title": "Attivazione",
     "messages": {
-      "success": "<strong>Your user account has been activated.</strong> Please ",
-      "error": "<strong>Your user could not be activated.</strong> Please use the registration form to sign up."
+      "success": "<strong>Il tuo account utente è stato attivato.</strong> Per favore ",
+      "error": "<strong>Impossibile attivare il tuo utente.</strong> Si prega di utilizzare il modulo di registrazione per iscriversi."
     }
   },
   "activate-wait": {
-    "title": "Activation",
-    "congratulations": "Congratulations ! Your account has been created. Please check your email address to confirm your registration.",
+    "title": "Attivazione",
+    "congratulations": "Congratulazioni! ",
     "messages": {
-      "success": "<strong>Your user account has been activated.</strong> Please ",
-      "error": "<strong>Your user could not be activated.</strong> Please use the registration form to sign up."
+      "success": "<strong>Il tuo account utente è stato attivato.</strong> Per favore ",
+      "error": "<strong>Impossibile attivare il tuo utente.</strong> Si prega di utilizzare il modulo di registrazione per iscriversi."
     }
   },
   "home": {
     "title-box": {
-      "h3": "There Are <span class='colored'>{{stastitc }}</span> Postings Here<br> For you!",
-      "div": "Find Jobs, Employment &amp; Career Opportunities"
+      "h3": "Ci sono <span class='colored'>{{stastitc }}</span> Messaggi qui<br> Per te!",
+      "div": "Trova lavoro, occupazione"
     },
-    "btn_title": "Find Jobs",
-    "popular_searches": "Popular Searches :",
+    "btn_title": "Trovare lavoro",
+    "popular_searches": "Ricerche popolari:",
     "features": {
-      "title": "Register an account to start",
-      "title2": "Explore over thousands of resumes",
-      "title3": "Find the most suitable candidate"
+      "title": "Registra un account per iniziare",
+      "title2": "Esplora migliaia di curriculum",
+      "title3": "Trova il candidato più adatto"
     },
     "job_category": {
-      "h2": "Jobs by category",
-      "text": "2020 jobs live - 293 added today.",
-      "content_1": "Accounting / Finance",
+      "h2": "Lavori per categoria",
+      "text": "Lavori 2020 in tempo reale - 293 aggiunti oggi.",
+      "content_1": "Contabilità/Finanza",
       "content_2": "Marketing",
-      "content_3": "Design",
-      "content_4": "Development",
-      "content_5": "Project Management",
-      "content_6": "Human Resource"
+      "content_3": "Progetto",
+      "content_4": "Sviluppo",
+      "content_5": "Gestione del progetto",
+      "content_6": "Risorse umane"
     },
     "job_section": {
-      "h2": "Professional CV is your ticket to the dream job",
-      "div": "To start searching for jobs, you can attend job fairs online or in person, use job boards and career websites or reach out directly to recruiters in a targeted company to broaden your network.",
-      "a": "Create your Cv"
+      "h2": "Il CV professionale è il tuo biglietto per il lavoro dei tuoi sogni",
+      "div": "Per iniziare a cercare lavoro, puoi partecipare a fiere del lavoro online o di persona, utilizzare bacheche di lavoro e siti Web di carriera o contattare direttamente i reclutatori di un'azienda mirata per ampliare la tua rete.",
+      "a": "Crea il tuo CV"
     },
     "job_lastest": {
-      "h2": "Latest Jobs",
-      "text": "Know your worth and find the job that qualify your life",
-      "title_1": "Freelance",
-      "title_2": "Full Time",
-      "title_3": "Internship",
-      "not-found": "No job alert found."
+      "h2": "Ultimi lavori",
+      "text": "Conosci il tuo valore e trova il lavoro che qualifica la tua vita",
+      "title_1": "Libero professionista",
+      "title_2": "Tempo pieno",
+      "title_3": "tirocinio",
+      "not-found": "Nessun avviso di lavoro trovato."
     },
     "banner1": {
-      "h3": "Employers",
-      "p": "Sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Labore et dolore nostrud.",
-      "a": "Register Account"
+      "h3": "Datori di lavoro",
+      "p": "Sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. ",
+      "a": "Registra l'account"
     },
     "banner2": {
-      "h3": "Candidate",
-      "p": "Sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Labore et dolore nostrud exercitation.",
-      "a": "Register Account"
+      "h3": "Candidato",
+      "p": "Sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. ",
+      "a": "Registra l'account"
     },
     "top_company": {
-      "h2": "Top Company Registered",
-      "div": "Some of the companies we've helped recruit excellent applicants over the years."
+      "h2": "Migliore azienda registrata",
+      "div": "Alcune delle aziende che abbiamo aiutato a reclutare candidati eccellenti nel corso degli anni."
     },
     "plans": {
-      "h2": "Choose a plan that’s right for you.",
+      "h2": "Scegli un piano adatto a te.",
       "div": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
     },
     "subscribe": {
-      "h2": "Download the App",
-      "div": "New features. New appearance. No risk and"
+      "h2": "Scarica l'applicazione",
+      "div": "Nuove caratteristiche. "
     },
     "bottom": {
-      "counter-title-1": "4 million daily active users",
-      "counter-title-2": "Over 12k open job positions",
-      "counter-title-3": "Over 20 million stories shared",
-      "counter-title-4": "4 million daily active users"
+      "counter-title-1": "4 milioni di utenti attivi giornalieri",
+      "counter-title-2": "Oltre 12mila posizioni lavorative aperte",
+      "counter-title-3": "Oltre 20 milioni di storie condivise",
+      "counter-title-4": "4 milioni di utenti attivi giornalieri"
     },
     "placeholder": {
-      "city_postcode": "City or PostCode",
-      "job_kewords": "Job title, keywords, or company",
-      "by_resume": "By resume"
+      "city_postcode": "Città o codice postale",
+      "job_kewords": "Titolo di lavoro, parole chiave o azienda",
+      "by_resume": "Per curriculum"
     }
   },
   "page": {
-    "no_job_alert": "No job alert found.",
-    "show_filters": "Show Filters",
-    "salary": "Salary",
-    "internship": "Internship",
-    "all": "All",
-    "experience_level": "Experience Level",
-    "last_24_hour": "Last 24 Hours",
-    "last_hour": "Last Hour",
-    "date_posted": "Date Posted",
-    "temporary": "Temporary",
-    "partime": "Part Time",
-    "fulltime": "Full Time",
-    "freelance": "Freelance",
-    "job_type": "Job type",
-    "choose_category": "Choose a category",
-    "category": "Category",
-    "location": "Location",
-    "search_by_keyword": "Search by Keywords",
-    "find_jobs": "Find Jobs",
-    "home": "Home",
-    "jobs": "Jobs",
-    "job_description": "Job Description",
-    "expiration_date": "Expiration date:",
-    "job_title": "Job Title:",
-    "related_jobs": "Related Jobs",
-    "send_message": "Send Message",
-    "contact_us": "Contact Us",
-    "view_company": "View company profile",
-    "socila_media": "Social media:",
-    "email": "Email:",
-    "phone": "Phone:",
-    "founded_in": "Founded in:",
-    "company_size": "Company size:",
-    "primary_industry": "Primary industry",
-    "apply_for_job": "Apply For Job",
-    "share_this_job": "Share this job",
-    "skill_experience": "Skill &amp; Experience",
-    "rate": "Rate:",
-    "hours": "Hours",
-    "showing_all_candidates": "Showing All Candidates",
-    "candidate": "Candidate",
-    "candidate_gender": "Candidate Gender",
-    "search_by_keywords": "Search by Keywords",
-    "experience": "Experience",
-    "view_more": "View More",
-    "education_levels": "Education Levels",
-    "master_degree": "Master’s Degree",
-    "bachelor_degree": "Bachelor Degree",
-    "associate_degree": "Associate Degree",
+    "no_job_alert": "Nessun avviso di lavoro trovato.",
+    "show_filters": "Mostra filtri",
+    "salary": "Stipendio",
+    "internship": "tirocinio",
+    "all": "Tutto",
+    "experience_level": "Livello di esperienza",
+    "last_24_hour": "Ultime 24 ore",
+    "last_hour": "Ultima ora",
+    "date_posted": "data di pubblicazione",
+    "temporary": "Temporaneo",
+    "partime": "Part time",
+    "fulltime": "Tempo pieno",
+    "freelance": "Libero professionista",
+    "job_type": "Tipo di lavoro",
+    "choose_category": "Scegli una categoria",
+    "category": "Categoria",
+    "location": "Posizione",
+    "search_by_keyword": "Cerca per parole chiave",
+    "find_jobs": "Trovare lavoro",
+    "home": "Casa",
+    "jobs": "Lavori",
+    "job_description": "Descrizione del lavoro",
+    "expiration_date": "Data di scadenza:",
+    "job_title": "Titolo di lavoro:",
+    "related_jobs": "Lavori correlati",
+    "send_message": "Invia messaggio",
+    "contact_us": "Contattaci",
+    "view_company": "Visualizza il profilo aziendale",
+    "socila_media": "Mezzi sociali:",
+    "email": "E-mail:",
+    "phone": "Telefono:",
+    "founded_in": "Fondato nel:",
+    "company_size": "Dimensione aziendale:",
+    "primary_industry": "Industria primaria",
+    "apply_for_job": "Candidati per il lavoro",
+    "share_this_job": "Condividi questo lavoro",
+    "skill_experience": "Abilità",
+    "rate": "Valutare:",
+    "hours": "Ore",
+    "showing_all_candidates": "Visualizzazione di tutti i candidati",
+    "candidate": "Candidato",
+    "candidate_gender": "Sesso del candidato",
+    "search_by_keywords": "Cerca per parole chiave",
+    "experience": "Esperienza",
+    "view_more": "Visualizza altro",
+    "education_levels": "Livelli di istruzione",
+    "master_degree": "Master",
+    "bachelor_degree": "Laurea triennale",
+    "associate_degree": "Grado associato",
     "diploma": "Diploma",
-    "certificate": "Certificate",
-    "download_cv": "Download CV",
-    "candidate_about": "Candidates About",
-    "social_media": "Social Media",
-    "education_level": "Education Level:",
-    "language": "Language",
-    "gender": "Gender",
-    "years": "Years",
-    "age": "Age",
-    "awards": "Awards",
-    "work_experience": "Work &amp; Experience",
-    "all_categories": "All categories",
-    "featured": "Featued",
-    "no_employer_found": "No employer found.",
-    "education": "Education",
-    "job_location": "Job Location",
-    "your_message": "Your Message",
-    "subject": "Subject",
-    "your_email": "Your Email",
-    "your_name": "Your Name",
-    "leave_a_message": "Leave a Message",
-    "call_us": "Call Us",
-    "address": "Address",
-    "open_job": "Open job",
-    "alert_job": "Alert job",
-    "alert_candidate": "Alert candidates",
-    "choose_frequency": "Choose a frequence",
-    "tag": "Tag",
-    "about_company": "About company"
+    "certificate": "Certificato",
+    "download_cv": "Scarica CV",
+    "candidate_about": "Candidati Informazioni",
+    "social_media": "Mezzi sociali",
+    "education_level": "Livello scolastico:",
+    "language": "Lingua",
+    "gender": "Genere",
+    "years": "Anni",
+    "age": "Età",
+    "awards": "Premi",
+    "work_experience": "Lavoro",
+    "all_categories": "Tutte le categorie",
+    "featured": "In primo piano",
+    "no_employer_found": "Nessun datore di lavoro trovato.",
+    "education": "Formazione scolastica",
+    "job_location": "Luogo di lavoro",
+    "your_message": "Il tuo messaggio",
+    "subject": "Soggetto",
+    "your_email": "La tua email",
+    "your_name": "Il tuo nome",
+    "leave_a_message": "Lasciate un messaggio",
+    "call_us": "Chiamaci",
+    "address": "Indirizzo",
+    "open_job": "Lavoro aperto",
+    "alert_job": "Lavoro attento",
+    "alert_candidate": "Candidati attenti",
+    "choose_frequency": "Scegli una frequenza",
+    "tag": "Etichetta",
+    "about_company": "Circa la società"
   },
-
   "dashboard": {
-    "medical-care": "Medical care",
-    "development-of-web": "Development of web and mobile applications",
-    "metal-construction-and-welding": "Metal construction and welding",
-    "mechatronics-and-mechanics": "Mechatronics and mechanics",
-    "electricity-electronics": "Electricity & electronics",
+    "medical-care": "Cure mediche",
+    "development-of-web": "Sviluppo di applicazioni web e mobile",
+    "metal-construction-and-welding": "Costruzione e saldatura dei metalli",
+    "mechatronics-and-mechanics": "Meccatronica e meccanica",
+    "electricity-electronics": "Elettricità",
     "language": {
       "french": "francese",
       "english": "Inglese",
@@ -390,14 +388,105 @@
       "portuguese": "portoghese",
       "chinese": "Cinese",
       "russian": "russo"
+    },
+    "form": {
+      "myprofile": "Il mio profilo",
+      "browselogo": "Sfoglia il logo",
+      "maxfileupload": "La dimensione massima del file è 1 MB, la dimensione minima: 330x300 e i file adatti sono .jpg",
+      "firstname": "Nome del battesimo *",
+      "lastname": "Cognome",
+      "jobtitle": "Titolo del lavoro *",
+      "phone": "Telefono",
+      "emailaddress": "Indirizzo email",
+      "dateofborn": "Data di nascita *",
+      "readytojump": "Pronti a rientrare?",
+      "placeofborn": "Luogo di nascita",
+      "countryofborn": "Paese di nascita",
+      "educationlevel": "Livelli di istruzione",
+      "allowsearch": "Consensi nella ricerca",
+      "description": "Descrizione",
+      "lookingprofessional": "In cerca di formazione professionale o impiego",
+      "searchtrainning": "Cerca formazione professionale",
+      "findjob": "Trovare un lavoro",
+      "language": "Lingua",
+      "readingcomprehension": "Comprensione della lettura:",
+      "listeningcomprehension": "Comprensione orale:",
+      "oralexpression": "Espressione orale:",
+      "writting": "scrittura",
+      "socialnetwork": "Rete sociale",
+      "contactinformation": "Informazioni sui contatti",
+      "country": "Paese",
+      "city": "Città",
+      "completeaddress": "Indirizzo completo",
+      "findonmap": "Trova sulla mappa",
+      "latitude": "Latitudine",
+      "longitude": "Longitudine",
+      "addbranchactivity": "Aggiungi rami di attività",
+      "branch": "Attività della filiale",
+      "experience": "Esperienza"
+    },
+    "table": {
+      "appliedjob": "Lavori applicativi",
+      "myappliedjob": "I miei lavori applicativi",
+      "jobtitle": "Titolo di lavoro",
+      "dateapplied": "Dati di applicazione",
+      "status": "Stato",
+      "action": "Azione",
+      "myjobalert": "I miei avvisi di lavoro",
+      "title": "Titolo",
+      "criteria": "Criteri",
+      "numberjob": "Numero di lavori",
+      "times": "Criteri",
+      "category": "Categoria:",
+      "location": "Posizione:",
+      "experience": " Esperienza:",
+      "posteddate": "Post-datato:",
+      "shorlistedjob": " Lavori selezionati:",
+      "myfavoritejob": " I miei lavori preferiti:"
     }
   },
   "title": {
-    "recruteur-list": "Employers",
-    "candidat-list": "Candidats",
-    "find-job": "Find jobs",
-    "contact": "Contact",
-    "about": "About",
-    "faq": "Faq"
+    "recruteur-list": "Datori di lavoro",
+    "candidat-list": "Candidati",
+    "find-job": "Trovare lavoro",
+    "contact": "Contatto",
+    "about": "Di",
+    "faq": "FAQ"
+  },
+  "profile": {
+    "candidat": {
+      "level-education": {
+        "level-1": "Istruzione secondaria inferiore",
+        "level-2": "Istruzione secondaria superiore",
+        "level-3": "Istruzione post-secondaria non terziaria",
+        "level-4": "Istruzione terziaria a ciclo breve",
+        "level-5": "Laurea triennale o livello di istruzione terziaria equivalente",
+        "level-6": "Laurea magistrale o livello di istruzione terziaria equivalente",
+        "level-7": "Dottorato o livello di istruzione terziaria equivalente"
+      }
+    },
+    "items": {
+      "title": "Il mio profilo",
+      "firstname": "Nome di battesimo",
+      "lastname": "Cognome",
+      "job-title": "Titolo di lavoro",
+      "phone": "Telefono",
+      "email-Adress": "Indirizzo e-mail",
+      "date-of-born": "Data di nascita",
+      "place-of-born": "Luogo di nascita",
+      "country-of-born": "Paese di nascita",
+      "education-level": "Livello scolastico",
+      "allow-in-search": "Consenti nella ricerca",
+      "description": "Descrizione",
+      "browser-logo": "Logo del navigatore",
+      "looking-for-prof": "In cerca di formazione professionale o impiego"
+    }
+  },
+  "actions": {
+    "save": "Salva",
+    "update": "Aggiornamento",
+    "close": "Vicino",
+    "search-location": "Cerca posizione"
   }
+
 }

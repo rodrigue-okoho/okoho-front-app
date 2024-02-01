@@ -394,6 +394,61 @@
       "portuguese": "葡萄牙語",
       "chinese": "中文",
       "russian": "俄語"
+    },
+    "form": {
+      "myprofile": "我的個人資料",
+      "browselogo": "流覽Logo",
+      "maxfileupload": "最大檔大小為 1MB，最小尺寸：330x300 合適的檔是 .jpg 和 .png",
+      "firstname": "名字*",
+      "lastname": "姓",
+      "jobtitle": "職稱 *",
+      "phone": "電話",
+      "emailaddress": "電子郵件位址",
+      "dateofborn": "出生日期 *",
+      "readytojump": "準備好重新開始了嗎？",
+      "placeofborn": "出生地",
+      "countryofborn": "出生國",
+      "educationlevel": "教育水準",
+      "allowsearch": "允許在搜索和清單中",
+      "description": "描述",
+      "lookingprofessional": "尋找專業培訓或就業",
+      "searchtrainning": "搜索專業培訓",
+      "findjob": "找工作",
+      "language": "語言",
+      "readingcomprehension": "閱讀理解：",
+      "listeningcomprehension": "聽力：",
+      "oralexpression": "口頭表達：",
+      "writting": "寫作",
+      "socialnetwork": "社交網路",
+      "contactinformation": "聯繫資訊",
+      "country": "國家",
+      "city": "城市",
+      "completeaddress": "完整位址",
+      "findonmap": "在地圖上查找",
+      "latitude": "緯度",
+      "longitude": "經度",
+      "addbranchactivity": "添加活動分支",
+      "branch": "Branch Activity",
+      "experience": "Experience"
+    },
+    "table": {
+      "appliedjob": "應用職位",
+      "myappliedjob": "我應聘的工作",
+      "jobtitle": "職稱",
+      "dateapplied": "應用日期",
+      "status": "地位",
+      "action": "行動",
+      "myjobalert": "我的工作提醒",
+      "title": "標題",
+      "criteria": "標準",
+      "numberjob": "工作數量",
+      "times": "標準",
+      "category": "類別：",
+      "location": "位置：",
+      "experience": "經驗：",
+      "posteddate": "發佈日期：",
+      "shorlistedjob": "工作範圍：",
+      "myfavoritejob": "我最喜歡的工作："
     }
   },
   "title": {
@@ -403,5 +458,40 @@
     "contact": "Contact",
     "about": "About",
     "faq": "Faq"
+  },
+  "profile": {
+    "candidat": {
+      "level-education": {
+        "level-1": "Lower Secondary Education",
+        "level-2": "Upper Secondary Education",
+        "level-3": "Post-secondary non-Tertiary Education",
+        "level-4": "Short-cycle tertiary education",
+        "level-5": "Bachelors degree or equivalent tertiary education level",
+        "level-6": "Masters degree or equivalent tertiary education level",
+        "level-7": "Doctoral degree or equivalent tertiary education level"
+      }
+    },
+    "items": {
+      "title": "My profile",
+      "firstname": "First name",
+      "lastname": "Last name",
+      "job-title": "Job title",
+      "phone": "Phone",
+      "email-Adress": "Email address",
+      "date-of-born": "Date of born",
+      "place-of-born": "Place of born",
+      "country-of-born": "Country of born",
+      "education-level": "Education level",
+      "allow-in-search": "Allow in search & listing",
+      "description": "Description",
+      "browser-logo": "Browser logo",
+      "looking-for-prof": "Looking for professional training or employment"
+    }
+  },
+  "actions": {
+    "save": "Save",
+    "update": "Update",
+    "close": "Close",
+    "search-location": "Search location"
   }
 }

@@ -381,6 +381,61 @@
       "portuguese": "португальский",
       "chinese": "Китайский",
       "russian": "Русский"
+    },
+    "form": {
+      "myprofile": "Мой профайл",
+      "browselogo": "Просмотреть логотип",
+      "maxfileupload": "Максимальный размер файла — 1 МБ, минимальный размер: 330x300. Подходящие файлы — .jpg.",
+      "firstname": "Имя *",
+      "lastname": "Фамилия",
+      "jobtitle": "Должность *",
+      "phone": "Телефон",
+      "emailaddress": "Адрес электронной почты",
+      "dateofborn": "Дата рождения *",
+      "readytojump": "Готовы вернуться обратно?",
+      "placeofborn": "Место рождения",
+      "countryofborn": "Страна рождения",
+      "educationlevel": "Уровни образования",
+      "allowsearch": "Разрешить в поиске",
+      "description": "Описание",
+      "lookingprofessional": "Ищу профессиональное обучение или работу",
+      "searchtrainning": "Поиск профессионального обучения",
+      "findjob": "Поиск работы",
+      "language": "Язык",
+      "readingcomprehension": "Понимание прочитанного:",
+      "listeningcomprehension": "Аудирование:",
+      "oralexpression": "Устное выражение:",
+      "writting": "письмо",
+      "socialnetwork": "Социальная сеть",
+      "contactinformation": "Контактная информация",
+      "country": "Страна",
+      "city": "Город",
+      "completeaddress": "Полный адрес",
+      "findonmap": "Найти на карте",
+      "latitude": "Широта",
+      "longitude": "Долгота",
+      "addbranchactivity": "Добавляйте направления деятельности",
+      "branch": "Деятельность филиала",
+      "experience": "Опыт"
+    },
+    "table": {
+      "appliedjob": "Прикладные работы",
+      "myappliedjob": "Мои прикладные вакансии",
+      "jobtitle": "Должность",
+      "dateapplied": "Дата применения",
+      "status": "Положение дел",
+      "action": "Действие",
+      "myjobalert": "Мои оповещения о вакансиях",
+      "title": "Заголовок",
+      "criteria": "Критерии",
+      "numberjob": "Количество рабочих мест",
+      "times": "Критерии",
+      "category": "Категория:",
+      "location": "Расположение:",
+      "experience": " Опыт:",
+      "posteddate": "Дата публикации:",
+      "shorlistedjob": " Вакансии, включенные в шорт-лист:",
+      "myfavoritejob": " Мои любимые работы:"
     }
   },
   "title": {
@@ -390,5 +445,40 @@
     "contact": "Contact",
     "about": "About",
     "faq": "Faq"
+  },
+  "profile": {
+    "candidat": {
+      "level-education": {
+        "level-1": "Lower Secondary Education",
+        "level-2": "Upper Secondary Education",
+        "level-3": "Post-secondary non-Tertiary Education",
+        "level-4": "Short-cycle tertiary education",
+        "level-5": "Bachelors degree or equivalent tertiary education level",
+        "level-6": "Masters degree or equivalent tertiary education level",
+        "level-7": "Doctoral degree or equivalent tertiary education level"
+      }
+    },
+    "items": {
+      "title": "My profile",
+      "firstname": "First name",
+      "lastname": "Last name",
+      "job-title": "Job title",
+      "phone": "Phone",
+      "email-Adress": "Email address",
+      "date-of-born": "Date of born",
+      "place-of-born": "Place of born",
+      "country-of-born": "Country of born",
+      "education-level": "Education level",
+      "allow-in-search": "Allow in search & listing",
+      "description": "Description",
+      "browser-logo": "Browser logo",
+      "looking-for-prof": "Looking for professional training or employment"
+    }
+  },
+  "actions": {
+    "save": "Save",
+    "update": "Update",
+    "close": "Close",
+    "search-location": "Search location"
   }
 }

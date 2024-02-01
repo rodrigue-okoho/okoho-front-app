@@ -381,14 +381,106 @@
       "portuguese": "portugués",
       "chinese": "Chino",
       "russian": "ruso"
+    },
+    "form": {
+      "myprofile": "Mi perfil",
+      "browselogo": "Explorar logotipo",
+      "maxfileupload": "El tamaño máximo de archivo es 1 MB, dimensión mínima: 330x300 y los archivos adecuados son .jpg",
+      "firstname": "Nombre de pila *",
+      "lastname": "Apellido",
+      "jobtitle": "Título profesional *",
+      "phone": "Teléfono",
+      "emailaddress": "Dirección de correo electrónico",
+      "dateofborn": "Fecha de nacimiento *",
+      "readytojump": "¿Listo para volver a entrar?",
+      "placeofborn": "Lugar de nacimiento",
+      "countryofborn": "País de nacimiento",
+      "educationlevel": "Niveles de educación",
+      "allowsearch": "Permitir en la búsqueda",
+      "description": "Descripción",
+      "lookingprofessional": "Buscando formación profesional o empleo",
+      "searchtrainning": "Búsqueda de formación profesional",
+      "findjob": "Buscando trabajo",
+      "language": "Idioma",
+      "readingcomprehension": "Comprensión lectora:",
+      "listeningcomprehension": "Comprensión auditiva:",
+      "oralexpression": "Expresión oral:",
+      "writting": "escribiendo",
+      "socialnetwork": "Red social",
+      "contactinformation": "Información del contacto",
+      "country": "País",
+      "city": "Ciudad",
+      "completeaddress": "Completa tu direccion",
+      "findonmap": "Buscar en el mapa",
+      "latitude": "Latitud",
+      "longitude": "Longitud",
+      "addbranchactivity": "Añadir ramas de actividad",
+      "branch": "Actividad de la sucursal",
+      "experience": "Experiencia"
+    },
+    "table": {
+      "appliedjob": "Trabajos aplicados",
+      "myappliedjob": "Mis trabajos aplicados",
+      "jobtitle": "Título profesional",
+      "dateapplied": "Fecha aplicada",
+      "status": "Estado",
+      "action": "Acción",
+      "myjobalert": "Mis alertas de empleo",
+      "title": "Título",
+      "criteria": "Criterios",
+      "numberjob": "Número de trabajos",
+      "times": "Criterios",
+      "category": "Categoría:",
+      "location": "Ubicación:",
+      "experience": " Experiencia:",
+      "posteddate": "Fecha de publicacion:",
+      "shorlistedjob": " Trabajos preseleccionados:",
+      "myfavoritejob": " Mis trabajos favoritos:"
     }
   },
+
   "title": {
-    "recruteur-list": "Employers",
-    "candidat-list": "Candidats",
-    "find-job": "Find jobs",
-    "contact": "Contact",
-    "about": "About",
-    "faq": "Faq"
+    "recruteur-list": "Empleadores",
+    "candidat-list": "Candidatos",
+    "find-job": "Encontrar trabajos",
+    "contact": "Contacto",
+    "about": "Acerca de",
+    "faq": "Preguntas más frecuentes"
+  },
+  "profile": {
+    "candidat": {
+      "level-education": {
+        "level-1": "Educación secundaria inferior",
+        "level-2": "Educación Secundaria Superior",
+        "level-3": "Educación postsecundaria no terciaria",
+        "level-4": "Educación terciaria de ciclo corto",
+        "level-5": "Licenciatura o nivel de educación terciaria equivalente",
+        "level-6": "Maestría o nivel de educación terciaria equivalente",
+        "level-7": "Doctorado o nivel de educación terciaria equivalente"
+      }
+    },
+    "items": {
+      "title": "Mi perfil",
+      "firstname": "Nombre de pila",
+      "lastname": "Apellido",
+      "job-title": "Título profesional",
+      "phone": "Teléfono",
+      "email-Adress": "Dirección de correo electrónico",
+      "date-of-born": "Fecha de nacimiento",
+      "place-of-born": "Lugar de nacimiento",
+      "country-of-born": "País de nacimiento",
+      "education-level": "Nivel de Educación",
+      "allow-in-search": "Permitir en la búsqueda",
+      "description": "Descripción",
+      "browser-logo": "Logotipo del navegador",
+      "looking-for-prof": "Buscando formación profesional o empleo"
+    }
+  },
+  "actions": {
+    "save": "Ahorrar",
+    "update": "Actualizar",
+    "close": "Cerca",
+    "search-location": "Ubicación de búsqueda"
   }
+
 }

@@ -384,6 +384,61 @@
       "portuguese": "Portugiesisch",
       "chinese": "Chinesisch",
       "russian": "Russisch"
+    },
+    "form": {
+      "myprofile": "Mein Profil",
+      "browselogo": "Logo durchsuchen",
+      "maxfileupload": "Die maximale Dateigröße beträgt 1 MB, die Mindestgröße beträgt 330 x 300. Geeignete Dateien sind .jpg",
+      "firstname": "Vorname *",
+      "lastname": "Familienname, Nachname",
+      "jobtitle": "Berufsbezeichnung *",
+      "phone": "Telefon",
+      "emailaddress": "E-Mail-Adresse",
+      "dateofborn": "Geburtsdatum *",
+      "readytojump": "Bereit, wieder einzusteigen?",
+      "placeofborn": "Geburtsort",
+      "countryofborn": "Geburtsland",
+      "educationlevel": "Bildungsstufen",
+      "allowsearch": "In der Suche zulassen",
+      "description": "Beschreibung",
+      "lookingprofessional": "Auf der Suche nach einer Berufsausbildung oder Anstellung",
+      "searchtrainning": "Suche nach einer Berufsausbildung",
+      "findjob": "Einen Job finden",
+      "language": "Sprache",
+      "readingcomprehension": "Leseverständnis:",
+      "listeningcomprehension": "Hörverstehen:",
+      "oralexpression": "Mündliche Ausdrucksweise:",
+      "writting": "Schreiben",
+      "socialnetwork": "Soziales Netzwerk",
+      "contactinformation": "Kontaktinformationen",
+      "country": "Land",
+      "city": "Stadt",
+      "completeaddress": "Vollständige Adresse",
+      "findonmap": "Auf der Karte finden",
+      "latitude": "Breite",
+      "longitude": "Längengrad",
+      "addbranchactivity": "Tätigkeitszweige hinzufügen",
+      "branch": "Filialaktivität",
+      "experience": "Erfahrung"
+    },
+    "table": {
+      "appliedjob": "Angewandte Jobs",
+      "myappliedjob": "Meine beworbenen Jobs",
+      "jobtitle": "Berufsbezeichnung",
+      "dateapplied": "Antragsdatum",
+      "status": "Status",
+      "action": "Aktion",
+      "myjobalert": "Meine Jobbenachrichtigungen",
+      "title": "Titel",
+      "criteria": "Kriterien",
+      "numberjob": "Anzahl Jobs",
+      "times": "Kriterien",
+      "category": "Kategorie:",
+      "location": "Standort:",
+      "experience": " Erfahrung:",
+      "posteddate": "Datum der Veröffentlichung:",
+      "shorlistedjob": " In die engere Wahl gezogene Jobs:",
+      "myfavoritejob": " Meine Lieblingsjobs:"
     }
   },
   "title": {
@@ -393,5 +448,25 @@
     "contact": "Contact",
     "about": "About",
     "faq": "Faq"
-  }
+  },
+  "profile": {
+    "candidat": {
+      "level-education": {
+        "level-1": "Bildung der Sekundarstufe I",
+        "level-2": "Sekundarstufe II",
+        "level-3": "Postsekundäre, nicht-tertiäre Bildung",
+        "level-4": "Tertiäre Bildung des kurzen Zyklus",
+        "level-5": "Bachelor oder gleichwertiges tertiäres Bildungsniveau",
+        "level-6": "Master oder gleichwertiges tertiäres Bildungsniveau",
+        "level-7": "Doktorat oder gleichwertiges tertiäres Bildungsniveau"
+      }
+    }
+  },
+  "actions": {
+    "save": "Speichern",
+    "update": "Aktualisieren",
+    "close": "Schließen",
+    "search-location": "Suche nach Ort"
+  },
+  "language": "Sprache"
 }

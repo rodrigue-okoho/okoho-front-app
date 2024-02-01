@@ -381,14 +381,104 @@
       "portuguese": "Português",
       "chinese": "chinês",
       "russian": "russo"
+    },
+    "form": {
+      "myprofile": "Meu perfil",
+      "browselogo": "Navegar pelo logotipo",
+      "maxfileupload": "O tamanho máximo do arquivo é 1 MB, dimensão mínima: 330x300 e os arquivos adequados são .jpg",
+      "firstname": "Primeiro nome *",
+      "lastname": "Sobrenome",
+      "jobtitle": "Cargo *",
+      "phone": "Telefone",
+      "emailaddress": "Endereço de email",
+      "dateofborn": "Data de nascimento *",
+      "readytojump": "Pronto para voltar?",
+      "placeofborn": "Local de nascimento",
+      "countryofborn": "País de nascimento",
+      "educationlevel": "Níveis de educação",
+      "allowsearch": "Permitir na pesquisa",
+      "description": "Descrição",
+      "lookingprofessional": "Procurando formação profissional ou emprego",
+      "searchtrainning": "Procure por formação profissional",
+      "findjob": "Procurando um emprego",
+      "language": "Linguagem",
+      "readingcomprehension": "Compreensão de leitura:",
+      "listeningcomprehension": "Compreensão auditiva:",
+      "oralexpression": "Expressão oral:",
+      "writting": "escrevendo",
+      "socialnetwork": "Rede social",
+      "contactinformation": "Informações de contato",
+      "country": "País",
+      "city": "Cidade",
+      "completeaddress": "Endereço completo",
+      "findonmap": "Encontrar no mapa",
+      "latitude": "Latitude",
+      "longitude": "Longitude",
+      "addbranchactivity": "Adicionar ramos de atividade",
+      "branch": "Atividade da Filial",
+      "experience": "Experiência"
+    },
+    "table": {
+      "appliedjob": "Empregos Aplicados",
+      "myappliedjob": "Meus empregos aplicados",
+      "jobtitle": "Cargo",
+      "dateapplied": "Data de aplicação",
+      "status": "Status",
+      "action": "Ação",
+      "myjobalert": "Meus alertas de emprego",
+      "title": "Título",
+      "criteria": "Critério",
+      "numberjob": "Empregos numéricos",
+      "times": "Critério",
+      "category": "Categoria:",
+      "location": "Localização:",
+      "experience": " Experiência:",
+      "posteddate": "Data de envio:",
+      "shorlistedjob": " Empregos selecionados:",
+      "myfavoritejob": " Meus empregos favoritos:"
     }
   },
   "title": {
-    "recruteur-list": "Employers",
-    "candidat-list": "Candidats",
-    "find-job": "Find jobs",
-    "contact": "Contact",
-    "about": "About",
-    "faq": "Faq"
+    "recruteur-list": "Empregadores",
+    "candidat-list": "Candidatos",
+    "find-job": "Encontrar empregos",
+    "contact": "Contato",
+    "about": "Sobre",
+    "faq": "Perguntas frequentes"
+  },
+  "profile": {
+    "candidat": {
+      "level-education": {
+        "level-1": "Ensino Secundário Inferior",
+        "level-2": "Educação secundária superior",
+        "level-3": "Ensino pós-secundário não superior",
+        "level-4": "Ensino superior de ciclo curto",
+        "level-5": "Licenciatura ou nível de ensino superior equivalente",
+        "level-6": "Mestrado ou nível de ensino superior equivalente",
+        "level-7": "Doutorado ou nível de ensino superior equivalente"
+      }
+    },
+    "items": {
+      "title": "Meu perfil",
+      "firstname": "Primeiro nome",
+      "lastname": "Sobrenome",
+      "job-title": "Cargo",
+      "phone": "Telefone",
+      "email-Adress": "Endereço de email",
+      "date-of-born": "Data de nascimento",
+      "place-of-born": "Local de nascimento",
+      "country-of-born": "País de nascimento",
+      "education-level": "Nível de educação",
+      "allow-in-search": "Permitir na pesquisa",
+      "description": "Descrição",
+      "browser-logo": "Logotipo do navegador",
+      "looking-for-prof": "Procurando formação profissional ou emprego"
+    }
+  },
+  "actions": {
+    "save": "Salvar",
+    "update": "Atualizar",
+    "close": "Fechar",
+    "search-location": "Local de pesquisa"
   }
 }
