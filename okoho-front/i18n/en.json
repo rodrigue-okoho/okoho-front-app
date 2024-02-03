@@ -458,9 +458,7 @@
       "male": "Male",
       "female": "Female",
       "personaldetail": "Personal Details *",
-      "cvmanager": "Cv Manager",
-      "personaldetail": "",
-      "personaldetail": ""
+      "cvmanager": "Cv Manager"
     },
     "table": {
       "appliedjob": "Applied Jobs",
