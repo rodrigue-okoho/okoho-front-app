@@ -1,12 +1,13 @@
 {
   "global": {
+    "dashboard": "Dashboard",
     "title": "OKOHO plateform",
     "browsehappy": "You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/?locale=en\">upgrade your browser</a> to improve your experience.",
     "menu": {
       "candidates": "candidates",
       "home": "Home",
-      "candidate": "Qualified candidates",
-      "candidate_untrained": "Untrained candidates",
+      "candidate": "Job Seekers",
+      "candidate_untrained": "People looking for vocational training",
       "employer": "Employers",
       "blog": "Blog",
       "findjob": "Find jobs",
@@ -408,9 +409,9 @@
       "educationlevel": "Education Levels",
       "allowsearch": "Allow In Search &amp; Listing",
       "description": "Description",
-      "lookingprofessional": "Looking for professional training or employment",
-      "searchtrainning": "Search for professional training",
-      "findjob": "Finding a job",
+      "lookingprofessional": "What are you looking for as a priority right now?",
+      "searchtrainning": "vocational training (I do not yet have a recognised vocational training course in Germany)",
+      "findjob": "A job (I already have a recognized vocational training course in Germany)",
       "language": "Language",
       "readingcomprehension": "Reading comprehension:",
       "listeningcomprehension": "Listening comprehension:",
@@ -506,7 +507,7 @@
     "lastname": "Last name",
     "job-title": "Job title",
     "phone": "Phone",
-    "email-Adress": "Email address",
+    "email-adress": "Email address",
     "date-of-born": "Date of born",
     "place-of-born": "Place of born",
     "country-of-born": "Country of born",
@@ -514,14 +515,39 @@
     "allow-in-search": "Allow in search & listing",
     "description": "Description",
     "browser-logo": "Browser logo",
-    "looking-for-prof": "Looking for professional training or employment"
+    "looking-for-prof": "Looking for professional training or employment",
+    "social-network": "Social network",
+    "contact-info": "Contact information",
+    "country": "Country",
+    "city": "City",
+    "complet-adress": "Complete adress",
+    "find-map": "Find on map",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "experience": "Experience",
+    "branch-activity": "Branch activity",
+    "find-a-job": "Finding a job",
+    "search-for-training": "Search for professional training",
+    "logo-message": "Max file size is 1MB, Minimum dimension: 330x300 And Suitable files are .jpg &amp; .png"
+>>>>>>> f5d6a506824987b209945b8751c5ac004e34f4c2
   }
 },
 "actions": {
   "save": "Save",
   "update": "Update",
   "close": "Close",
-  "search-location": "Search location"
-}
+  "search-location": "Search location",
+  "add-language": "Add language",
+  "add-branch-activity": "Add branch of activity"
+},
+"languages": {
+  "written": "Written",
+  "read-comp": "Reading comprehension",
+  "listening-comp": "Listening comprehension",
+  "oral-expression": "Oral expression",
+  "linguistic": "Linguistic skills"
+},
+"yes": "Yes",
+"no": "No"
 
 }

@@ -1,12 +1,13 @@
 {
   "global": {
+    "dashboard": "Armaturenbrett",
     "title": "OKOHO-Plattform",
     "browsehappy": "Sie verwenden ein <strong>veraltet</strong> Browser.  <a href=\"http://browsehappy.com/?locale=en\">Aktualisieren Sie Ihren Browser</a> um Ihre Erfahrung zu verbessern.",
     "menu": {
       "candidates": "Kandidaten",
       "home": "Heim",
-      "candidate": "Qualifizierte Kandidaten",
-      "candidate_untrained": "Ungeschulte Kandidaten",
+      "candidate": "Arbeitssuchende",
+      "candidate_untrained": "Menschen auf der Suche nach einer Berufsausbildung",
       "employer": "Arbeitgeber",
       "blog": "Blog",
       "findjob": "Arbeitsplätze finden",
@@ -25,9 +26,7 @@
       "browse-job": "Job durchsuchen",
       "browse-category": "Kategorie durchsuchen",
       "add-job": "Job hinzufügen",
-
-  "job-post": "Stellenausschreibung",
-
+      "job-post": "Stellenausschreibung",
       "entities": {},
       "account": {
         "main": "Mein Konto",
@@ -50,7 +49,7 @@
         "add_job": "Job hinzufügen",
         "applicant_job": "Bewerberjob",
         "shortlist_candidat": "ShortList-Kandidat",
-        "cv_manager": "CV-Manager",
+        "cv_manager": "Lebenslaufmanager",
         "delete_profil": "Profil löschen",
         "register": "Registrieren"
       },
@@ -401,9 +400,9 @@
       "educationlevel": "Bildungsstufen",
       "allowsearch": "In der Suche zulassen",
       "description": "Beschreibung",
-      "lookingprofessional": "Auf der Suche nach einer Berufsausbildung oder Anstellung",
-      "searchtrainning": "Suche nach einer Berufsausbildung",
-      "findjob": "Einen Job finden",
+      "lookingprofessional": "Wonach suchst du im Moment am meisten?",
+      "searchtrainning": "Berufsausbildung (ich habe noch keine anerkannte Berufsausbildung in Deutschland)",
+      "findjob": "Einen Arbeitsplatz (ich habe bereits eine anerkannte Berufsausbildung in Deutschland)",
       "language": "Sprache",
       "readingcomprehension": "Leseverständnis:",
       "listeningcomprehension": "Hörverstehen:",
@@ -492,13 +491,53 @@
         "level-6": "Master oder gleichwertiges tertiäres Bildungsniveau",
         "level-7": "Doktorat oder gleichwertiges tertiäres Bildungsniveau"
       }
+    },
+    "items": {
+      "title": "Mein Profil",
+      "firstname": "Vorname",
+      "lastname": "Nachname",
+      "job-title": "Stellenbezeichnung",
+      "phone": "Telefon",
+      "email-adress": "E-Mail-Adresse",
+      "date-of-born": "Geburtsdatum",
+      "place-of-born": "Ort der Geburt",
+      "country-of-born": "Land der Geburt",
+      "education-level": "Bildungsniveau",
+      "allow-in-search": "In Suche und Auflistung zulassen",
+      "description": "Beschreibung",
+      "browser-logo": "Das browser-Logo",
+      "looking-for-prof": "Auf der Suche nach einer Berufsausbildung oder Beschäftigung",
+      "social-network": "Soziales Netzwerk",
+      "contact-info": "Kontaktinformationen",
+      "country": "Land",
+      "city": "Stadt",
+      "complet-adress": "Vollständige Adresse",
+      "find-map": "Auf Karte finden",
+      "latitude": "Breitengrad",
+      "longitude": "Längengrad",
+      "experience": "Erfahrung",
+      "branch-activity": "Branchentätigkeit",
+      "find-a-job": "Einen Job finden",
+      "search-for-training": "Suche nach einer Berufsausbildung",
+      "logo-message": "Maximale Dateigröße ist 1MB, Mindestgröße: 330x300 und geeignete Dateien sind .jpg &amp; .png"
     }
   },
   "actions": {
     "save": "Speichern",
     "update": "Aktualisieren",
     "close": "Schließen",
-    "search-location": "Suche nach Ort"
+    "search-location": "Suche nach Ort",
+    "add-language": "Sprache hinzufügen",
+    "add-branch-activity": "Zweig der Aktivität hinzufügen"
   },
-  "language": "Sprache"
+  "languages": {
+    "written": "Geschrieben",
+    "read-comp": "Leseverstehen",
+    "listening-comp": "Hörverstehen",
+    "oral-expression": "Mündlicher Ausdruck",
+    "linguistic": "Linguistische Fähigkeiten"
+  },
+  "language": "Sprache",
+  "yes": "Ja",
+  "no": "Nein"
 }

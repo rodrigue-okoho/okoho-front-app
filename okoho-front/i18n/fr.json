@@ -1,12 +1,13 @@
 {
   "global": {
+    "dashboard": "Tableau de bord",
     "title": "Plateforme OKOHO",
     "browsehappy": "Vous utilisez un <strong>dépassé</strong> navigateur.  <a href=\"http://browsehappy.com/?locale=en\">mettez à jour votre navigateur</a> pour améliorer votre expérience.",
     "menu": {
       "candidates": "candidates",
       "home": "Accueil",
-      "candidate": "Candidats qualifiés",
-      "candidate_untrained": "Des candidats non formés",
+      "candidate": "Chercheurs d'emploi",
+      "candidate_untrained": "People looking for vocational training",
       "employer": "Employeurs",
       "blog": "Blog",
       "findjob": "Trouver des emplois",
@@ -399,9 +400,9 @@
       "educationlevel": "Niveaux d'éducation",
       "allowsearch": "Autoriser dans la recherche",
       "description": "Description",
-      "lookingprofessional": "En recherche de formation professionnelle ou d'emploi",
-      "searchtrainning": "Recherche de formation professionnelle",
-      "findjob": "Trouver un emploi",
+      "lookingprofessional": "Que recherchez-vous en priorité en ce moment ?",
+      "searchtrainning": "une formation professionnelle (Je n´ai pas encore une formation professionnelle reconnue en Allemagne)",
+      "findjob": "un emploi (j´ai déjà une formation professionnelle reconnue en Allemagne) ",
       "language": "Langue",
       "readingcomprehension": "Compréhension écrite:",
       "listeningcomprehension": "Compréhension d'écoute:",
@@ -490,13 +491,53 @@
         "level-6": "Maîtrise ou niveau d'enseignement tertiaire équivalent",
         "level-7": "Doctorat ou niveau d'enseignement supérieur équivalent"
       }
+    },
+    "items": {
+      "title": "Mon profil",
+      "firstname": "Nom",
+      "lastname": "Prenom",
+      "job-title": "Titre du poste",
+      "phone": "Téléphone",
+      "email-adress": "Adresse mail",
+      "date-of-born": "Date de naissance",
+      "place-of-born": "Ville de naissance",
+      "country-of-born": "Pays de naissance",
+      "education-level": "Niveau éducatif",
+      "allow-in-search": "Permettre la recherche et l'inscription",
+      "description": "Description",
+      "browser-logo": "Logo du navigateur",
+      "looking-for-prof": "A la recherche d'une formation professionnelle ou d'un emploi",
+      "social-network": "Réseau social",
+      "contact-info": "Informations sur les contacts",
+      "country": "Pays",
+      "city": "Ville",
+      "complet-adress": "Adresse complete",
+      "find-map": "Trouver sur la carte",
+      "latitude": "Latitude",
+      "longitude": "Longitude",
+      "experience": "Experience",
+      "branch-activity": "Activité de la branche",
+      "find-a-job": "Trouver un emploi",
+      "search-for-training": "Recherche de formation professionnelle",
+      "logo-message": "La taille maximale du fichier est de 1 Mo, la dimension minimale est de 330 x 300. Les fichiers adaptés sont les suivants : .jpg et .png"
     }
   },
   "actions": {
     "save": "Sauvegarder",
     "update": "Modifier",
     "close": "Fermer",
-    "search-location": "Lieu de recherche"
+    "search-location": "Lieu de recherche",
+    "add-language": "Ajouter une langue",
+    "add-branch-activity": "Ajouter une branche d'activité"
   },
-  "language": "Langue"
+  "languages": {
+    "written": "Ecrit",
+    "read-comp": "Compréhension écrite",
+    "listening-comp": "Compréhension orale",
+    "oral-expression": "Expression orale",
+    "linguistic": "Compétences linguistiques"
+  },
+  "language": "Langue",
+  "yes": "Oui",
+  "no": "Non"
 }
