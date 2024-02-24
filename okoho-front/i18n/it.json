@@ -50,7 +50,11 @@
         "shortlist_candidat": "Candidato nella lista ristretta",
         "cv_manager": "Responsabile CV",
         "delete_profil": "Elimina profilo",
-        "register": "Registrati"
+        "register": "Registrati",
+        "change_password": "Cambiare la password",
+        "message": "Messaggio",
+        "short_list_candidat": "Candidati selezionati",
+        "submit_job": "Invia lavoro"
       },
       "language": "Lingua"
     },
@@ -455,7 +459,40 @@
       "male": "Maschio",
       "female": "Femmina",
       "personaldetail": "Dati personali *",
-      "cvmanager": "Responsabile CV"
+      "cvmanager": "Responsabile CV",
+      "company_name": "Nome della ditta",
+      "est_since": "Est. ",
+      "team_size": "Dimensione della squadra",
+      "Categories": "Categorie",
+      "about_company": "Circa la società",
+      "complete_address": "Indirizzo completo",
+      "application_deadline": "Data di scadenza della domanda",
+      "qualification": "Qualificazione",
+      "lower_secondary": "Istruzione secondaria inferiore",
+      "upper_secondary": "Istruzione secondaria superiore",
+      "post_secondary": "Istruzione post-secondaria non terziaria",
+      "short_cycle_tertiary": "Istruzione terziaria a ciclo breve",
+      "bachelor_degree": "Laurea triennale o livello di istruzione terziaria equivalente",
+      "master_degree": "Laurea magistrale o livello di istruzione terziaria equivalente",
+      "Masters degree or equivalent tertiary education level": "Dottorato o livello di istruzione terziaria equivalente",
+      "industry": "Industria",
+      "agricultural": "Economia agricola",
+      "construction": "Costruzione",
+      "metal": "Metallo",
+      "health": "Salute",
+      "telecommunication": "Telecomunicazione",
+      "touristic": "Settore turistico e gastronomico",
+      "commerce": "Commercio",
+      "service": "Servizi",
+      "carreer_level": "livello di carriera",
+      "apply_email": "E-mail applicata",
+      "job_apply_type": "Tipo di candidatura per il lavoro",
+      "job_type": "Tipo di lavoro",
+      "categories": "Categorie",
+      "job_description": "Descrizione del lavoro",
+      "job_detail": "Dettagli del lavoro",
+      "post_a_job": "Pubblica lavoro",
+      "post_a_new_job": "Pubblica un nuovo lavoro!"
     },
     "table": {
       "appliedjob": "Lavori applicativi",
@@ -475,6 +512,33 @@
       "posteddate": "Post-datato:",
       "shorlistedjob": " Lavori selezionati:",
       "myfavoritejob": " I miei lavori preferiti:"
+    },
+    "employee": {
+      "manage_jobs": "Gestisci lavori",
+      "my_job_listings": "I miei annunci di lavoro",
+      "last_6_months": "Ultimi 6 mesi",
+      "last_12_months": "Ultimi 12 mesi",
+      "last_16_months": "Ultimi 16 mesi",
+      "last_24_months": "Ultimi 24 mesi",
+      "last_5_year": "Ultimi 5 anni",
+      "title": "Titolo",
+      "applications": "Applicazioni",
+      "created_expired": "Creato",
+      "status": "Stato",
+      "action": "Azioni",
+      "applicant": "Richiedente",
+      "all_applicants": "Tutti i candidati",
+      "all_status": "Tutti gli stati",
+      "resume_alert": "Riprendi avvisi",
+      "my_alerts": "I miei avvisi",
+      "alert_query": "Domanda di avviso",
+      "number_jobs": "Numero di lavori",
+      "times": "Volte",
+      "category": "Categoria",
+      "location": "Posizione",
+      "job_found": "Lavori trovati",
+      "posted_date": "post-datato",
+      "experience": "Esperienza"
     }
   },
   "title": {
@@ -518,7 +582,16 @@
     "save": "Salva",
     "update": "Aggiornamento",
     "close": "Vicino",
-    "search-location": "Cerca posizione"
+    "search-location": "Cerca posizione",
+    "add-language": "Aggiungi lingua",
+    "add-branch-activity": "Aggiungi ramo di attività"
+  },
+  "activate-wait": {
+    "title": "Attivazione",
+    "congratulations": "Congratulazioni Il tuo account è stato creato. Controlla il tuo indirizzo email per confermare la registrazione.",
+    "messages": {
+      "success": "<strong>Il tuo account utente è stato attivato.</strong> Per favore ",
+      "error": "<strong>Impossibile attivare il tuo utente.</strong> Si prega di utilizzare il modulo di registrazione per iscriversi."
+    }
   }
-
 }

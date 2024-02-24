@@ -51,7 +51,11 @@
         "shortlist_candidat": "ShortList-Kandidat",
         "cv_manager": "Lebenslaufmanager",
         "delete_profil": "Profil löschen",
-        "register": "Registrieren"
+        "register": "Registrieren",
+        "change_password": "Kennwort ändern",
+        "message": "Nachricht",
+        "short_list_candidat": "Kandidaten in die engere Auswahl nehmen",
+        "submit_job": "Auftrag abschicken"
       },
       "language": "Sprache"
     },
@@ -450,7 +454,40 @@
       "male": "Männlich",
       "female": "Weiblich",
       "personaldetail": "Persönliche Daten *",
-      "cvmanager": "Lebenslauf-Manager"
+      "cvmanager": "Lebenslauf-Manager",
+      "company_name": "Name der Firma",
+      "est_since": "Europäische Sommerzeit. ",
+      "team_size": "Teamgröße",
+      "Categories": "Kategorien",
+      "about_company": "Über das Unternehmen",
+      "complete_address": "Vollständige Adresse",
+      "application_deadline": "Datum der Bewerbungsfrist",
+      "qualification": "Qualifikation",
+      "lower_secondary": "Sekundarstufe I",
+      "upper_secondary": "Abschluss der Sekundarstufe II",
+      "post_secondary": "Postsekundäre, nicht tertiäre Bildung",
+      "short_cycle_tertiary": "Kurzzeitige tertiäre Ausbildung",
+      "bachelor_degree": "Bachelor-Abschluss oder gleichwertiger Hochschulabschluss",
+      "master_degree": "Master-Abschluss oder gleichwertiger Hochschulabschluss",
+      "Masters degree or equivalent tertiary education level": "Doktortitel oder gleichwertiger Hochschulabschluss",
+      "industry": "Industrie",
+      "agricultural": "Agrarwirtschaft",
+      "construction": "Konstruktion",
+      "metal": "Metall",
+      "health": "Gesundheit",
+      "telecommunication": "Telekommunikation",
+      "touristic": "Tourismus- und Gastronomiebranche",
+      "commerce": "Handel",
+      "service": "Dienstleistungen",
+      "carreer_level": "Karrierelevel",
+      "apply_email": "Angewandte E-Mail",
+      "job_apply_type": "Art der Stellenbewerbung",
+      "job_type": "Auftragstyp",
+      "categories": "Kategorien",
+      "job_description": "Arbeitsbeschreibung",
+      "job_detail": "Jobdetails",
+      "post_a_job": "Job veröffentlichen",
+      "post_a_new_job": "Veröffentlichen Sie einen neuen Job!"
     },
     "table": {
       "appliedjob": "Angewandte Jobs",
@@ -470,6 +507,33 @@
       "posteddate": "Datum der Veröffentlichung:",
       "shorlistedjob": " In die engere Wahl gezogene Jobs:",
       "myfavoritejob": " Meine Lieblingsjobs:"
+    },
+    "employee": {
+      "manage_jobs": "Jobs verwalten",
+      "my_job_listings": "Meine Stellenangebote",
+      "last_6_months": "Letzte 6 Monate",
+      "last_12_months": "Letzte 12 Monate",
+      "last_16_months": "Letzte 16 Monate",
+      "last_24_months": "Letzte 24 Monate",
+      "last_5_year": "Letzte 5 Jahre",
+      "title": "Titel",
+      "applications": "Anwendungen",
+      "created_expired": "Erstellt",
+      "status": "Status",
+      "action": "Aktionen",
+      "applicant": "Antragsteller",
+      "all_applicants": "Alle Bewerber",
+      "all_status": "Alle Status",
+      "resume_alert": "Lebenslaufwarnungen",
+      "my_alerts": "Meine Wecker",
+      "alert_query": "Alarmabfrage",
+      "number_jobs": "Anzahl Jobs",
+      "times": "Mal",
+      "category": "Kategorie",
+      "location": "Standort",
+      "job_found": "Jobs gefunden",
+      "posted_date": "Datum der Veröffentlichung",
+      "experience": "Erfahrung"
     }
   },
   "title": {
@@ -539,5 +603,13 @@
   },
   "language": "Sprache",
   "yes": "Ja",
-  "no": "Nein"
+  "no": "Nein",
+  "activate-wait": {
+    "title": "Aktivierung",
+    "congratulations": "Herzlichen Glückwunsch. Ihr Konto wurde erstellt. Bitte überprüfen Sie Ihre E-Mail-Adresse, um Ihre Registrierung zu bestätigen.",
+    "messages": {
+      "success": "<strong>Ihr Benutzerkonto wurde aktiviert.</strong> Bitte ",
+      "error": "<strong>Ihr Benutzer konnte nicht aktiviert werden.</strong> Bitte nutzen Sie zur Anmeldung das Anmeldeformular."
+    }
+  }
 }

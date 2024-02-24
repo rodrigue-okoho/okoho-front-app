@@ -3,6 +3,7 @@
     "title": "OKOHO平台形狀",
     "browsehappy": "您正在使用<strong>過時</strong>的瀏覽器。請<a href=“http://browsehappy.com/?locale=en”>升級您的瀏覽器</a>以改善您的體驗。",
     "menu": {
+      "language": "語言",
       "candidates": "候選人",
       "home": "家",
       "candidate": "求職 者",
@@ -41,19 +42,24 @@
         "shortlist_job": "入圍作業",
         "following_employee": "以下員工",
         "alert_job": "警報作業",
-        "candidat_alert": "condidate 警報",
+        "candidat_alert": " 警報",
         "package": "包",
         "meeting": "會議",
-        "my_job": "My job",
-        "add_job": "Add Job",
-        "applicant_job": "Applicant job",
-        "shortlist_candidat": "ShortList candidate",
-        "cv_manager": "CV Manager",
-        "delete_profil": "Delete profil",
-        "register": "Register"
+  "my_job": "我的工作",
+  "add_job": "添加作業",
+  "applicant_job": "求職者工作",
+  "shortlist_candidat": "入圍候選人",
+  "cv_manager": "簡歷經理",
+  "delete_profil": "刪除配置檔",
+  "register": "註冊"
+,
+  "change_password": "更改密碼",
+  "message": "消息",
+  "short_list_candidat": "入圍候選人",
+  "submit_job": "提交您的作品"
+}
       },
-      "language": "語言"
-    },
+
     "form": {
       "username.label": "Username",
       "username.placeholder": "Your username",
@@ -123,9 +129,8 @@
 
   "work-inquiry-from": "<br>阿裡圖凡的工作諮詢",
   "creativ-agency": "創意機構",
-  "startup": "啟動"
-
-  },
+  "startup": "啟動",
+  "language": "語言"},
   "entity":{
     "action": {
       "addblob": "添加 blob",
@@ -463,8 +468,40 @@
   "male": "雄",
   "female": "女性",
   "personaldetail": "個人資料 *",
-  "cvmanager": "簡歷經理"
-
+  "cvmanager": "簡歷經理",
+  "company_name": "公司名稱",
+  "est_since": "最。因為",
+  "team_size": "團隊規模",
+  "Categories": "類別",
+  "about_company": "關於公司",
+  "complete_address": "完整位址",
+  "application_deadline": "報名截止日期",
+  "qualification": "資格",
+  "lower_secondary": "初中教育",
+  "upper_secondary": "高中教育",
+  "post_secondary": "專上非高等教育",
+  "short_cycle_tertiary": "短期高等教育",
+  "bachelor_degree": "學士學位或同等高等教育水準",
+  "master_degree": "碩士或同等高等教育水準",
+  "Masters degree or equivalent tertiary education level": "博士學位或同等高等教育水準",
+  "industry": "工業",
+  "agricultural": "農業經濟",
+  "construction": "建設",
+  "metal": "金屬和電子",
+  "health": "健康",
+  "telecommunication": "電信",
+  "touristic": "旅遊和美食業",
+  "commerce": "商業",
+  "service": "服務業",
+  "carreer_level": "職業水準",
+  "apply_email": "應用的電子郵件",
+  "job_apply_type": "職位申請類型",
+  "job_type": "作業類型",
+  "categories": "類別",
+  "job_description": "職位描述",
+  "job_detail": "職位詳細資訊",
+  "post_a_job": "發佈職位",
+  "post_a_new_job": "發佈新職位！"
     },
     "table": {
       "appliedjob": "應用職位",
@@ -484,6 +521,33 @@
       "posteddate": "發佈日期：",
       "shorlistedjob": "工作範圍：",
       "myfavoritejob": "我最喜歡的工作："
+    },
+    "employee": {
+      "manage_jobs": "管理作業",
+      "my_job_listings": "我的工作清單",
+      "last_6_months": "最近 6 個月",
+      "last_12_months": "過去12個月",
+      "last_16_months": "過去16個月",
+      "last_24_months": "過去24個月",
+      "last_5_year": "過去5年",
+      "title": "標題",
+      "applications": "應用",
+      "created_expired": "創建",
+      "status": "州",
+      "action": "行為",
+      "applicant": "申請人",
+      "all_applicants": "所有申請人",
+      "all_status": "全州",
+      "resume_alert": "簡歷提醒",
+      "my_alerts": "我的提醒",
+      "alert_query": "告警查詢",
+      "number_jobs": "作業數量",
+      "times": "次",
+      "category": "類別",
+      "location": "位置",
+      "job_found": "找到的工作",
+      "posted_date": "出版日期",
+      "experience": "經驗"
     }
   },
   "title": {
@@ -528,5 +592,13 @@
     "update": "Update",
     "close": "Close",
     "search-location": "Search location"
+  },
+  "activate-wait": {
+    "title": "啟動",
+    "congratulations": "祝賀！您的帳戶已創建。請檢查您的電子郵件地址以確認您的註冊。",
+    "messages": {
+      "success": "<strong>您的用戶帳戶已啟動。</strong>請",
+      "error": "<strong>無法啟動您的使用者。</strong>請使用註冊表進行註冊。"
+    }
   }
 }

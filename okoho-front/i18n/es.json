@@ -25,7 +25,7 @@
       "browse-job": "Buscar trabajo",
       "browse-category": "Explorar categoría",
       "add-job": "Agregar trabajo",
-  "job-post": "Puesto de trabajo",
+      "job-post": "Puesto de trabajo",
       "entities": {},
       "account": {
         "main": "Mi cuenta",
@@ -50,7 +50,11 @@
         "shortlist_candidat": "Candidato de lista corta",
         "cv_manager": "Responsable de CV",
         "delete_profil": "Eliminar perfil",
-        "register": "Registro"
+        "register": "Registro",
+        "change_password": "Cambiar la contraseña",
+        "message": "Mensaje",
+        "short_list_candidat": "Candidatos preseleccionados",
+        "submit_job": "Enviar trabajo"
       },
       "language": "Idioma"
     },
@@ -448,7 +452,40 @@
       "male": "Masculino",
       "female": "Femenino",
       "personaldetail": "Detalles personales *",
-      "cvmanager": "Gerente de CV"
+      "cvmanager": "Gerente de CV",
+      "company_name": "Nombre de empresa",
+      "est_since": "Est. ",
+      "team_size": "Tamaño del equipo",
+      "Categories": "Categorías",
+      "about_company": "Acerca de la compañía",
+      "complete_address": "Completa tu direccion",
+      "application_deadline": "Fecha límite de solicitud",
+      "qualification": "Calificación",
+      "lower_secondary": "Educación secundaria inferior",
+      "upper_secondary": "Educación Secundaria Superior",
+      "post_secondary": "Educación postsecundaria no terciaria",
+      "short_cycle_tertiary": "Educación terciaria de ciclo corto",
+      "bachelor_degree": "Licenciatura o nivel de educación terciaria equivalente",
+      "master_degree": "Maestría o nivel de educación terciaria equivalente",
+      "Masters degree or equivalent tertiary education level": "Doctorado o nivel de educación terciaria equivalente",
+      "industry": "Industria",
+      "agricultural": "Economía agrícola",
+      "construction": "Construcción",
+      "metal": "Metal",
+      "health": "Salud",
+      "telecommunication": "Telecomunicación",
+      "touristic": "Industria turística y gastronómica.",
+      "commerce": "Comercio",
+      "service": "Servicios",
+      "carreer_level": "Nivel de carrera",
+      "apply_email": "correo electrónico aplicado",
+      "job_apply_type": "Tipo de solicitud de empleo",
+      "job_type": "El tipo de trabajo",
+      "categories": "Categorías",
+      "job_description": "Descripción del trabajo",
+      "job_detail": "Detalles del trabajo",
+      "post_a_job": "Trabajo posterior",
+      "post_a_new_job": "¡Publique un nuevo trabajo!"
     },
     "table": {
       "appliedjob": "Trabajos aplicados",
@@ -468,6 +505,33 @@
       "posteddate": "Fecha de publicacion:",
       "shorlistedjob": " Trabajos preseleccionados:",
       "myfavoritejob": " Mis trabajos favoritos:"
+    },
+    "employee": {
+      "manage_jobs": "Administrar trabajos",
+      "my_job_listings": "Mis listados de trabajo",
+      "last_6_months": "Últimos 6 meses",
+      "last_12_months": "Últimos 12 meses",
+      "last_16_months": "Últimos 16 meses",
+      "last_24_months": "Últimos 24 meses",
+      "last_5_year": "últimos 5 años",
+      "title": "Título",
+      "applications": "Aplicaciones",
+      "created_expired": "Creado",
+      "status": "Estado",
+      "action": "Comportamiento",
+      "applicant": "Solicitante",
+      "all_applicants": "Todos los solicitantes",
+      "all_status": "Todo el estado",
+      "resume_alert": "Reanudar alertas",
+      "my_alerts": "Mis alertas",
+      "alert_query": "Consulta de alerta",
+      "number_jobs": "Número de trabajos",
+      "times": "Veces",
+      "category": "Categoría",
+      "location": "Ubicación",
+      "job_found": "Empleos encontrados",
+      "posted_date": "fecha de publicacion",
+      "experience": "Experiencia"
     }
   },
 
@@ -512,7 +576,17 @@
     "save": "Ahorrar",
     "update": "Actualizar",
     "close": "Cerca",
-    "search-location": "Ubicación de búsqueda"
+    "search-location": "Ubicación de búsqueda",
+    "add-language": "Agregar idioma",
+    "add-branch-activity": "Añadir rama de actividad"
+  },
+  "activate-wait": {
+    "title": "Activación",
+    "congratulations": "Felicitaciones Su cuenta ha sido creada. Verifique su dirección de correo electrónico para confirmar su registro.",
+    "messages": {
+      "success": "<strong>Su cuenta de usuario ha sido activada.</strong> Por favor ",
+      "error": "<strong>Su usuario no pudo ser activado.</strong> Utilice el formulario de registro para registrarse."
+    }
   }
 
 }

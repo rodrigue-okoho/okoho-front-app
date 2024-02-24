@@ -51,7 +51,11 @@
         "shortlist_candidat": "Candidato da lista restrita",
         "cv_manager": "Gerente de currículos",
         "delete_profil": "Excluir perfil",
-        "register": "Registro"
+        "register": "Registro",
+        "change_password": "Alterar a senha",
+        "message": "Mensagem",
+        "short_list_candidat": "Candidatos da lista restrita",
+        "submit_job": "Enviar trabalho"
       },
       "language": "Linguagem"
     },
@@ -448,7 +452,40 @@
       "male": "Macho",
       "female": "Fêmea",
       "personaldetail": "Detalhes pessoais *",
-      "cvmanager": "Gerente de currículos"
+      "cvmanager": "Gerente de currículos",
+      "company_name": "Nome da empresa",
+      "est_since": "Husa. ",
+      "team_size": "Tamanho da equipe",
+      "Categories": "Categorias",
+      "about_company": "Sobre companhia",
+      "complete_address": "Endereço completo",
+      "application_deadline": "Data limite para inscrição",
+      "qualification": "Qualificação",
+      "lower_secondary": "Ensino Secundário Inferior",
+      "upper_secondary": "Educação secundária superior",
+      "post_secondary": "Ensino pós-secundário não superior",
+      "short_cycle_tertiary": "Ensino superior de ciclo curto",
+      "bachelor_degree": "Licenciatura ou nível de ensino superior equivalente",
+      "master_degree": "Mestrado ou nível de ensino superior equivalente",
+      "Masters degree or equivalent tertiary education level": "Doutorado ou nível de ensino superior equivalente",
+      "industry": "Indústria",
+      "agricultural": "Economia agrícola",
+      "construction": "Construção",
+      "metal": "Metal",
+      "health": "Saúde",
+      "telecommunication": "Telecomunicação",
+      "touristic": "Indústria turística e gastronômica",
+      "commerce": "Comércio",
+      "service": "Serviços",
+      "carreer_level": "nível de carreira",
+      "apply_email": "E-mail aplicado",
+      "job_apply_type": "Tipo de candidatura de emprego",
+      "job_type": "Tipo de emprego",
+      "categories": "Categorias",
+      "job_description": "Descrição do trabalho",
+      "job_detail": "Detalhes do trabalho",
+      "post_a_job": "Publicar trabalho",
+      "post_a_new_job": "Publique um novo emprego!"
     },
     "table": {
       "appliedjob": "Empregos Aplicados",
@@ -468,6 +505,33 @@
       "posteddate": "Data de envio:",
       "shorlistedjob": " Empregos selecionados:",
       "myfavoritejob": " Meus empregos favoritos:"
+    },
+    "employee": {
+      "manage_jobs": "Gerenciar trabalhos",
+      "my_job_listings": "Minhas listas de empregos",
+      "last_6_months": "Últimos 6 meses",
+      "last_12_months": "Últimos 12 meses",
+      "last_16_months": "Últimos 16 meses",
+      "last_24_months": "Últimos 24 meses",
+      "last_5_year": "Últimos 5 anos",
+      "title": "Título",
+      "applications": "Formulários",
+      "created_expired": "Criada",
+      "status": "Status",
+      "action": "Ações",
+      "applicant": "Candidato",
+      "all_applicants": "Todos os candidatos",
+      "all_status": "Todos os status",
+      "resume_alert": "Retomar alertas",
+      "my_alerts": "Meus alertas",
+      "alert_query": "Consulta de alerta",
+      "number_jobs": "Empregos numéricos",
+      "times": "Tempos",
+      "category": "Categoria",
+      "location": "Localização",
+      "job_found": "Empregos encontrados",
+      "posted_date": "data de envio",
+      "experience": "Experiência"
     }
   },
   "title": {
@@ -512,5 +576,14 @@
     "update": "Atualizar",
     "close": "Fechar",
     "search-location": "Local de pesquisa"
+  },
+  "activate-wait": {
+    "title": "Ativação",
+    "congratulations": "Parabéns Sua conta foi criada. Verifique seu endereço de e-mail para confirmar seu registro.",
+    "messages": {
+      "success": "<strong>Sua conta de usuário foi ativada.</strong> Por favor ",
+      "error": "<strong>Seu usuário não pôde ser ativado.</strong> Por favor, use o formulário de registro para se inscrever."
+    }
   }
+
 }
