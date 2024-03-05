@@ -56,7 +56,8 @@
         "short_list_candidat": "Candidatos preseleccionados",
         "submit_job": "Enviar trabajo"
       },
-      "language": "Idioma"
+      "language": "Idioma",
+      "browse": "Explorar"
     },
     "form": {
       "username.label": "Nombre de usuario",

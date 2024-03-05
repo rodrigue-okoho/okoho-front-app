@@ -127,7 +127,10 @@
     "work-inquiry-from": "Work Inquiry From <br>Ali Tufan",
     "creativ-agency": "Creative Agency",
     "startup": "startup",
-    "language": "Language"
+    "language": "Language",
+    "browse": "Browse",
+    "forget-password": "Forgot your password?",
+    "forget-message": "Enter your email address and we will send you instructions to reset your password."
   },
   "entity": {
     "action": {

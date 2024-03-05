@@ -57,7 +57,8 @@
         "short_list_candidat": "Кандидаты в шорт-лист",
         "submit_job": "Отправить работу"
       },
-      "language": "Язык"
+      "language": "Язык",
+      "browse": "Просмотреть"
     },
     "form": {
       "username.label": "Имя пользователя",

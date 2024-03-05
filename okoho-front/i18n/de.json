@@ -57,7 +57,8 @@
         "short_list_candidat": "Kandidaten in die engere Auswahl nehmen",
         "submit_job": "Auftrag abschicken"
       },
-      "language": "Sprache"
+      "language": "Sprache",
+      "browse": "Durchsuchen"
     },
     "form": {
       "username.label": "Nutzername",

@@ -57,7 +57,8 @@
         "short_list_candidat": "Candidats présélectionnés",
         "submit_job": "Soumettre le travail"
       },
-      "language": "Langue"
+      "language": "Langue",
+      "browse": "Parcourir"
     },
     "form": {
       "username.label": "Nom d'utilisateur",

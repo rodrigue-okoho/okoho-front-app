@@ -1023,6 +1023,9 @@ MIT
 ngx-bootstrap/dropdown
 MIT
 
+ngx-bootstrap/pagination
+MIT
+
 ngx-bootstrap/positioning
 MIT
 
@@ -1084,6 +1087,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
+ngx-pagination
+MIT
 
 ngx-select-ex
 MIT
